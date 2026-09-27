@@ -1,0 +1,1001 @@
+Expense_ID,Date,Category,Subcategory,Description,Amount_INR,Payment_Method,City,Merchant,Need_or_Want
+EXP0001,2025-01-01,Food,Food Delivery,Dinner,531,UPI,Mumbai,Uber,Need
+EXP0002,2025-01-01,Shopping,Home,Home item,1573,Net Banking,Chennai,Airtel,Want
+EXP0003,2025-01-01,Shopping,Electronics,Clothes,6141,Credit Card,Lucknow,Amazon,Want
+EXP0004,2025-01-01,Shopping,Electronics,Personal item,9048,UPI,Bengaluru,Netflix,Want
+EXP0005,2025-01-01,Education,Courses,Stationery,12000,UPI,Pune,IRCTC,Need
+EXP0006,2025-01-01,Transport,Cab,Auto ride,5000,Credit Card,Jaipur,Reliance Trends,Need
+EXP0007,2025-01-02,Transport,Auto/Rickshaw,Fuel refill,1260,UPI,Bengaluru,Netflix,Want
+EXP0008,2025-01-02,Shopping,Personal Care,Clothes,15000,UPI,Delhi,Swiggy,Want
+EXP0009,2025-01-02,Transport,Public Transport,Cab ride,5000,Cash,Chennai,BookMyShow,Want
+EXP0010,2025-01-03,Bills & Utilities,Water,Internet bill,6544,Credit Card,Pune,Fuel Station,Need
+EXP0011,2025-01-04,Rent,House Rent,Monthly house rent,21844,UPI,Lucknow,Medical Store,Need
+EXP0012,2025-01-04,Education,Courses,Stationery,10907,Debit Card,Lucknow,Apollo Pharmacy,Need
+EXP0013,2025-01-04,Entertainment,Subscriptions,Event ticket,3164,UPI,Mumbai,Flipkart,Want
+EXP0014,2025-01-04,Education,Courses,Online course,7382,UPI,Jaipur,BookMyShow,Need
+EXP0015,2025-01-05,Entertainment,Games,Movie ticket,5000,Cash,Jaipur,Swiggy,Want
+EXP0016,2025-01-05,Bills & Utilities,Water,Mobile recharge,1003,UPI,Bengaluru,BigBasket,Need
+EXP0017,2025-01-05,Food,Groceries,Monthly groceries,2500,UPI,Chennai,Airtel,Need
+EXP0018,2025-01-05,Travel,Hotels,Local travel,6180,Credit Card,Bengaluru,Reliance Trends,Want
+EXP0019,2025-01-05,Education,Books,Online course,8939,UPI,Pune,Uber,Need
+EXP0020,2025-01-06,Health,Healthcare,Medicine purchase,2111,UPI,Bengaluru,Electricity Board,Want
+EXP0021,2025-01-06,Transport,Public Transport,Fuel refill,2302,Wallet,Bengaluru,Flipkart,Need
+EXP0022,2025-01-06,Rent,House Rent,Monthly house rent,9784,UPI,Hyderabad,Local Store,Want
+EXP0023,2025-01-06,Food,Groceries,Lunch,1222,UPI,Hyderabad,Zomato,Need
+EXP0024,2025-01-07,Bills & Utilities,Mobile,Monthly bill,2298,Cash,Delhi,Zomato,Need
+EXP0025,2025-01-07,Bills & Utilities,Electricity,Mobile recharge,2214,Cash,Mumbai,DMart,Need
+EXP0026,2025-01-08,Personal,Salon,Personal expense,4716,Net Banking,Bengaluru,BookMyShow,Want
+EXP0027,2025-01-08,Food,Snacks,Lunch,2463,UPI,Ahmedabad,Apollo Pharmacy,Want
+EXP0028,2025-01-08,Travel,Local Travel,Train ticket,12305,Cash,Kolkata,Netflix,Want
+EXP0029,2025-01-09,Travel,Flights,Train ticket,10769,Debit Card,Ahmedabad,Jio,Want
+EXP0030,2025-01-09,Travel,Hotels,Train ticket,5930,UPI,Bengaluru,BookMyShow,Want
+EXP0031,2025-01-09,Health,Healthcare,Gym fee,5077,Wallet,Pune,DMart,Need
+EXP0032,2025-01-10,Food,Restaurants,Dinner,1211,Debit Card,Bengaluru,IRCTC,Need
+EXP0033,2025-01-10,Food,Restaurants,Food order,373,UPI,Jaipur,Medical Store,Need
+EXP0034,2025-01-12,Bills & Utilities,Water,Utility payment,7775,UPI,Kolkata,Fuel Station,Need
+EXP0035,2025-01-12,Personal,Gifts,Gift,1127,UPI,Ahmedabad,Electricity Board,Want
+EXP0036,2025-01-12,Food,Food Delivery,Lunch,777,UPI,Lucknow,Airtel,Need
+EXP0037,2025-01-13,Transport,Public Transport,Cab ride,2870,Credit Card,Kolkata,Airtel,Need
+EXP0038,2025-01-13,Shopping,Electronics,Online purchase,10516,Net Banking,Hyderabad,DMart,Want
+EXP0039,2025-01-13,Health,Doctor,Medicine purchase,6312,UPI,Delhi,Airtel,Need
+EXP0040,2025-01-13,Shopping,Home,Personal item,4487,UPI,Chennai,Jio,Want
+EXP0041,2025-01-14,Transport,Cab,Fuel refill,2774,Credit Card,Chennai,Gym,Need
+EXP0042,2025-01-14,Bills & Utilities,Mobile,Monthly bill,8000,Cash,Bengaluru,Apollo Pharmacy,Need
+EXP0043,2025-01-14,Food,Snacks,Monthly groceries,2500,UPI,Chennai,Jio,Need
+EXP0044,2025-01-14,Entertainment,Subscriptions,Movie ticket,1936,Wallet,Kolkata,DMart,Want
+EXP0045,2025-01-15,Personal,Gifts,Gift,4106,UPI,Chennai,Medical Store,Want
+EXP0046,2025-01-15,Food,Snacks,Snacks,1343,UPI,Bengaluru,Medical Store,Want
+EXP0047,2025-01-15,Personal,Salon,Personal expense,2470,UPI,Chennai,Ola,Want
+EXP0048,2025-01-16,Shopping,Electronics,Clothes,5503,UPI,Pune,Gym,Want
+EXP0049,2025-01-17,Food,Restaurants,Dinner,1840,Cash,Kolkata,Uber,Need
+EXP0050,2025-01-18,Rent,House Rent,Monthly house rent,21956,Net Banking,Chennai,Amazon,Need
+EXP0051,2025-01-19,Personal,Miscellaneous,Salon,4682,Credit Card,Delhi,Medical Store,Want
+EXP0052,2025-01-19,Food,Groceries,Lunch,1888,Cash,Jaipur,Zomato,Need
+EXP0053,2025-01-20,Bills & Utilities,Mobile,Internet bill,1092,UPI,Chennai,Netflix,Need
+EXP0054,2025-01-20,Transport,Cab,Cab ride,746,Debit Card,Delhi,Airtel,Want
+EXP0055,2025-01-20,Transport,Cab,Auto ride,3958,UPI,Chennai,Zomato,Need
+EXP0056,2025-01-21,Food,Snacks,Snacks,1915,Debit Card,Delhi,Airtel,Need
+EXP0057,2025-01-21,Personal,Salon,Salon,7000,Debit Card,Jaipur,Amazon,Want
+EXP0058,2025-01-22,Entertainment,Games,Game purchase,3573,UPI,Hyderabad,Netflix,Want
+EXP0059,2025-01-22,Food,Groceries,Monthly groceries,1805,Cash,Bengaluru,DMart,Want
+EXP0060,2025-01-22,Shopping,Personal Care,Clothes,2194,Debit Card,Jaipur,DMart,Want
+EXP0061,2025-01-23,Shopping,Personal Care,Online purchase,7201,UPI,Kolkata,DMart,Want
+EXP0062,2025-01-23,Food,Groceries,Food order,511,Cash,Mumbai,Netflix,Want
+EXP0063,2025-01-25,Rent,House Rent,Monthly house rent,14648,Net Banking,Mumbai,BigBasket,Need
+EXP0064,2025-01-25,Bills & Utilities,Internet,Mobile recharge,3230,Cash,Bengaluru,Electricity Board,Need
+EXP0065,2025-01-25,Education,Online Learning,Stationery,7426,Debit Card,Bengaluru,Netflix,Need
+EXP0066,2025-01-26,Shopping,Electronics,Online purchase,4564,Net Banking,Chennai,Reliance Trends,Want
+EXP0067,2025-01-26,Food,Restaurants,Monthly groceries,580,Cash,Jaipur,Netflix,Need
+EXP0068,2025-01-26,Transport,Auto/Rickshaw,Fuel refill,3687,Credit Card,Chennai,Reliance Trends,Need
+EXP0069,2025-01-27,Rent,House Rent,Monthly house rent,14435,UPI,Lucknow,Jio,Need
+EXP0070,2025-01-28,Transport,Cab,Cab ride,1594,UPI,Lucknow,Amazon Prime,Need
+EXP0071,2025-01-28,Health,Doctor,Medicine purchase,2575,Debit Card,Mumbai,BigBasket,Want
+EXP0072,2025-01-28,Entertainment,Subscriptions,Subscription,2647,UPI,Chennai,Airtel,Want
+EXP0073,2025-01-28,Shopping,Personal Care,Clothes,15000,UPI,Delhi,Local Store,Want
+EXP0074,2025-01-28,Personal,Salon,Miscellaneous,6069,UPI,Bengaluru,Swiggy,Want
+EXP0075,2025-01-29,Food,Snacks,Monthly groceries,1917,Debit Card,Pune,Electricity Board,Want
+EXP0076,2025-01-29,Travel,Local Travel,Local travel,21569,UPI,Jaipur,Electricity Board,Want
+EXP0077,2025-01-30,Entertainment,Games,Event ticket,1449,Debit Card,Delhi,Jio,Want
+EXP0078,2025-01-31,Shopping,Personal Care,Home item,4532,Debit Card,Ahmedabad,Swiggy,Want
+EXP0079,2025-02-02,Rent,House Rent,Monthly house rent,17365,UPI,Pune,IRCTC,Need
+EXP0080,2025-02-02,Rent,House Rent,Monthly house rent,8884,UPI,Delhi,Amazon Prime,Need
+EXP0081,2025-02-02,Food,Food Delivery,Snacks,643,Credit Card,Hyderabad,Medical Store,Need
+EXP0082,2025-02-03,Rent,House Rent,Monthly house rent,22062,UPI,Lucknow,Airtel,Need
+EXP0083,2025-02-03,Shopping,Electronics,Clothes,2494,Cash,Delhi,DMart,Want
+EXP0084,2025-02-03,Shopping,Home,Online purchase,10729,Credit Card,Pune,Swiggy,Want
+EXP0085,2025-02-03,Personal,Miscellaneous,Personal expense,7000,Cash,Pune,BookMyShow,Want
+EXP0086,2025-02-04,Shopping,Electronics,Online purchase,10206,Cash,Chennai,Fuel Station,Want
+EXP0087,2025-02-04,Rent,House Rent,Monthly house rent,10626,Net Banking,Mumbai,Jio,Need
+EXP0088,2025-02-04,Education,Books,Book purchase,6065,Cash,Pune,Apollo Pharmacy,Need
+EXP0089,2025-02-04,Health,Gym,Health expense,6694,UPI,Bengaluru,Reliance Trends,Need
+EXP0090,2025-02-04,Personal,Miscellaneous,Miscellaneous,1913,UPI,Lucknow,Medical Store,Want
+EXP0091,2025-02-05,Transport,Public Transport,Cab ride,1061,UPI,Pune,Amazon Prime,Want
+EXP0092,2025-02-05,Personal,Gifts,Salon,5842,Cash,Delhi,Netflix,Want
+EXP0093,2025-02-05,Entertainment,Subscriptions,Event ticket,3362,Credit Card,Kolkata,Electricity Board,Want
+EXP0094,2025-02-05,Transport,Fuel,Bus ticket,1579,UPI,Mumbai,Amazon Prime,Need
+EXP0095,2025-02-06,Shopping,Electronics,Clothes,3201,Cash,Bengaluru,Reliance Trends,Want
+EXP0096,2025-02-06,Transport,Auto/Rickshaw,Bus ticket,4448,UPI,Delhi,Netflix,Want
+EXP0097,2025-02-06,Food,Snacks,Dinner,1278,UPI,Pune,Jio,Need
+EXP0098,2025-02-07,Bills & Utilities,Electricity,Mobile recharge,5452,UPI,Ahmedabad,Flipkart,Need
+EXP0099,2025-02-07,Food,Snacks,Lunch,1322,Credit Card,Jaipur,Apollo Pharmacy,Need
+EXP0100,2025-02-08,Travel,Hotels,Local travel,12412,Credit Card,Pune,Fuel Station,Want
+EXP0101,2025-02-08,Bills & Utilities,Water,Monthly bill,2101,UPI,Chennai,DMart,Need
+EXP0102,2025-02-08,Education,Online Learning,Book purchase,12000,UPI,Mumbai,Gym,Need
+EXP0103,2025-02-08,Bills & Utilities,Electricity,Internet bill,6557,Cash,Kolkata,BookMyShow,Need
+EXP0104,2025-02-08,Rent,House Rent,Monthly house rent,12620,Net Banking,Chennai,BigBasket,Want
+EXP0105,2025-02-08,Shopping,Clothing,Online purchase,3160,Debit Card,Lucknow,Jio,Want
+EXP0106,2025-02-08,Food,Snacks,Food order,2500,Wallet,Chennai,Medical Store,Need
+EXP0107,2025-02-09,Bills & Utilities,Water,Internet bill,3669,Cash,Lucknow,IRCTC,Want
+EXP0108,2025-02-10,Rent,House Rent,Monthly house rent,19513,UPI,Ahmedabad,DMart,Need
+EXP0109,2025-02-10,Personal,Salon,Salon,7000,UPI,Chennai,Reliance Trends,Want
+EXP0110,2025-02-10,Education,Courses,Book purchase,2701,UPI,Kolkata,Zomato,Need
+EXP0111,2025-02-11,Entertainment,Subscriptions,Movie ticket,4124,Cash,Lucknow,Uber,Want
+EXP0112,2025-02-11,Travel,Train/Bus,Travel ticket,30000,Debit Card,Ahmedabad,Gym,Want
+EXP0113,2025-02-11,Travel,Train/Bus,Local travel,7900,Debit Card,Jaipur,Fuel Station,Want
+EXP0114,2025-02-12,Transport,Cab,Bus ticket,3295,Wallet,Jaipur,Flipkart,Need
+EXP0115,2025-02-12,Entertainment,Games,Movie ticket,1063,Credit Card,Kolkata,Zomato,Want
+EXP0116,2025-02-13,Food,Food Delivery,Snacks,2500,Credit Card,Pune,IRCTC,Need
+EXP0117,2025-02-13,Shopping,Electronics,Personal item,2342,Debit Card,Mumbai,Netflix,Want
+EXP0118,2025-02-13,Personal,Miscellaneous,Gift,1851,UPI,Bengaluru,Reliance Trends,Want
+EXP0119,2025-02-13,Shopping,Electronics,Personal item,15000,Cash,Mumbai,Apollo Pharmacy,Want
+EXP0120,2025-02-14,Entertainment,Events,Subscription,1087,Debit Card,Lucknow,Flipkart,Want
+EXP0121,2025-02-15,Bills & Utilities,Water,Monthly bill,8000,Cash,Kolkata,IRCTC,Need
+EXP0122,2025-02-15,Food,Restaurants,Food order,767,UPI,Hyderabad,BigBasket,Want
+EXP0123,2025-02-15,Entertainment,Subscriptions,Subscription,1938,Credit Card,Jaipur,Local Store,Want
+EXP0124,2025-02-16,Food,Groceries,Dinner,2184,UPI,Hyderabad,Jio,Need
+EXP0125,2025-02-16,Entertainment,Subscriptions,Event ticket,1656,UPI,Jaipur,Jio,Want
+EXP0126,2025-02-16,Shopping,Home,Online purchase,13598,Cash,Lucknow,Swiggy,Want
+EXP0127,2025-02-16,Bills & Utilities,Internet,Utility payment,8000,UPI,Ahmedabad,Electricity Board,Need
+EXP0128,2025-02-16,Travel,Hotels,Local travel,12013,Debit Card,Chennai,Zomato,Want
+EXP0129,2025-02-17,Shopping,Personal Care,Online purchase,4918,Cash,Mumbai,Swiggy,Want
+EXP0130,2025-02-17,Bills & Utilities,Electricity,Monthly bill,3137,Debit Card,Hyderabad,Flipkart,Need
+EXP0131,2025-02-17,Rent,House Rent,Monthly house rent,8000,Net Banking,Delhi,BigBasket,Need
+EXP0132,2025-02-18,Personal,Salon,Miscellaneous,4798,UPI,Lucknow,Netflix,Want
+EXP0133,2025-02-18,Food,Food Delivery,Snacks,1233,UPI,Hyderabad,Medical Store,Need
+EXP0134,2025-02-19,Personal,Gifts,Miscellaneous,5978,UPI,Bengaluru,Blinkit,Want
+EXP0135,2025-02-20,Food,Restaurants,Dinner,513,UPI,Kolkata,Reliance Trends,Need
+EXP0136,2025-02-20,Transport,Fuel,Fuel refill,2594,Credit Card,Lucknow,Apollo Pharmacy,Need
+EXP0137,2025-02-20,Transport,Cab,Cab ride,1457,Net Banking,Ahmedabad,Electricity Board,Need
+EXP0138,2025-02-20,Personal,Salon,Miscellaneous,7000,Debit Card,Jaipur,Blinkit,Want
+EXP0139,2025-02-20,Rent,House Rent,Monthly house rent,13100,Net Banking,Chennai,BookMyShow,Need
+EXP0140,2025-02-20,Food,Restaurants,Lunch,416,UPI,Jaipur,Swiggy,Need
+EXP0141,2025-02-21,Shopping,Electronics,Online purchase,11840,UPI,Ahmedabad,Medical Store,Want
+EXP0142,2025-02-21,Entertainment,Games,Event ticket,1567,Credit Card,Mumbai,Airtel,Want
+EXP0143,2025-02-21,Food,Snacks,Monthly groceries,1901,Cash,Bengaluru,Netflix,Want
+EXP0144,2025-02-22,Travel,Flights,Hotel booking,18007,Debit Card,Hyderabad,Uber,Want
+EXP0145,2025-02-22,Health,Healthcare,Doctor consultation,3369,UPI,Lucknow,Amazon Prime,Need
+EXP0146,2025-02-22,Food,Food Delivery,Snacks,2500,UPI,Bengaluru,Zomato,Need
+EXP0147,2025-02-22,Transport,Cab,Auto ride,2003,Cash,Ahmedabad,Amazon,Want
+EXP0148,2025-02-22,Health,Gym,Health expense,6139,Cash,Jaipur,Gym,Need
+EXP0149,2025-02-22,Bills & Utilities,Water,Internet bill,3585,Wallet,Ahmedabad,BookMyShow,Need
+EXP0150,2025-02-22,Entertainment,Events,Subscription,5000,UPI,Jaipur,Apollo Pharmacy,Want
+EXP0151,2025-02-23,Food,Groceries,Dinner,885,Credit Card,Chennai,Airtel,Need
+EXP0152,2025-02-23,Education,Books,Stationery,8531,UPI,Lucknow,Uber,Want
+EXP0153,2025-02-23,Rent,House Rent,Monthly house rent,25000,Net Banking,Chennai,Netflix,Need
+EXP0154,2025-02-23,Shopping,Electronics,Clothes,8398,UPI,Chennai,Ola,Want
+EXP0155,2025-02-23,Bills & Utilities,Gas,Internet bill,3251,Credit Card,Hyderabad,Local Store,Need
+EXP0156,2025-02-23,Bills & Utilities,Water,Utility payment,8000,UPI,Mumbai,Ola,Need
+EXP0157,2025-02-23,Food,Restaurants,Food order,1548,Debit Card,Bengaluru,Ola,Need
+EXP0158,2025-02-24,Transport,Cab,Cab ride,1093,UPI,Pune,Jio,Need
+EXP0159,2025-02-25,Shopping,Personal Care,Online purchase,5419,Net Banking,Delhi,Electricity Board,Want
+EXP0160,2025-02-25,Health,Medicine,Doctor consultation,10000,Credit Card,Hyderabad,Local Store,Need
+EXP0161,2025-02-26,Health,Doctor,Health expense,3548,Credit Card,Kolkata,Medical Store,Need
+EXP0162,2025-02-27,Personal,Miscellaneous,Salon,5041,Net Banking,Jaipur,DMart,Want
+EXP0163,2025-02-27,Rent,House Rent,Monthly house rent,21687,Net Banking,Chennai,Flipkart,Want
+EXP0164,2025-02-27,Shopping,Clothing,Online purchase,14982,Cash,Mumbai,Netflix,Want
+EXP0165,2025-02-27,Bills & Utilities,Internet,Internet bill,3274,Wallet,Pune,Swiggy,Need
+EXP0166,2025-02-27,Travel,Local Travel,Travel ticket,19143,UPI,Chennai,BookMyShow,Want
+EXP0167,2025-02-27,Shopping,Home,Personal item,13601,Wallet,Pune,Jio,Want
+EXP0168,2025-02-28,Shopping,Clothing,Clothes,10522,UPI,Mumbai,DMart,Want
+EXP0169,2025-03-01,Education,Online Learning,Online course,3168,Credit Card,Mumbai,IRCTC,Need
+EXP0170,2025-03-01,Health,Medicine,Medicine purchase,10000,Credit Card,Hyderabad,Amazon,Need
+EXP0171,2025-03-02,Bills & Utilities,Water,Monthly bill,8000,UPI,Pune,Gym,Need
+EXP0172,2025-03-02,Shopping,Electronics,Online purchase,14571,Net Banking,Delhi,Reliance Trends,Want
+EXP0173,2025-03-03,Bills & Utilities,Internet,Monthly bill,1485,Credit Card,Chennai,Fuel Station,Need
+EXP0174,2025-03-03,Personal,Gifts,Personal expense,983,UPI,Chennai,Amazon,Want
+EXP0175,2025-03-03,Shopping,Electronics,Online purchase,15000,UPI,Ahmedabad,Electricity Board,Want
+EXP0176,2025-03-03,Bills & Utilities,Mobile,Monthly bill,8000,UPI,Bengaluru,Apollo Pharmacy,Need
+EXP0177,2025-03-04,Education,Courses,Online course,6999,Credit Card,Bengaluru,IRCTC,Want
+EXP0178,2025-03-04,Entertainment,Events,Event ticket,1821,Net Banking,Jaipur,Gym,Want
+EXP0179,2025-03-04,Food,Restaurants,Food order,2500,UPI,Kolkata,Zomato,Need
+EXP0180,2025-03-04,Education,Books,Book purchase,12000,Cash,Jaipur,Gym,Need
+EXP0181,2025-03-06,Personal,Gifts,Miscellaneous,1937,Credit Card,Pune,Swiggy,Want
+EXP0182,2025-03-06,Travel,Flights,Travel ticket,30000,UPI,Ahmedabad,BigBasket,Want
+EXP0183,2025-03-06,Personal,Gifts,Salon,1221,Debit Card,Chennai,Zomato,Want
+EXP0184,2025-03-07,Travel,Hotels,Hotel booking,10261,UPI,Bengaluru,Local Store,Want
+EXP0185,2025-03-07,Transport,Auto/Rickshaw,Fuel refill,4091,Cash,Delhi,Apollo Pharmacy,Need
+EXP0186,2025-03-08,Shopping,Electronics,Home item,12382,Debit Card,Hyderabad,Netflix,Want
+EXP0187,2025-03-09,Health,Medicine,Health expense,4863,Credit Card,Chennai,Jio,Need
+EXP0188,2025-03-09,Bills & Utilities,Gas,Utility payment,3639,Credit Card,Ahmedabad,Airtel,Need
+EXP0189,2025-03-10,Transport,Cab,Fuel refill,1878,Credit Card,Ahmedabad,Zomato,Need
+EXP0190,2025-03-10,Rent,House Rent,Monthly house rent,23271,UPI,Pune,Electricity Board,Need
+EXP0191,2025-03-10,Rent,House Rent,Monthly house rent,18097,Net Banking,Chennai,Uber,Want
+EXP0192,2025-03-10,Food,Restaurants,Dinner,2075,UPI,Kolkata,Zomato,Need
+EXP0193,2025-03-11,Personal,Miscellaneous,Gift,2653,Credit Card,Lucknow,Flipkart,Want
+EXP0194,2025-03-11,Rent,House Rent,Monthly house rent,19439,UPI,Jaipur,Netflix,Need
+EXP0195,2025-03-13,Transport,Fuel,Auto ride,4032,Cash,Lucknow,DMart,Need
+EXP0196,2025-03-13,Travel,Flights,Train ticket,21329,UPI,Lucknow,Zomato,Want
+EXP0197,2025-03-14,Food,Restaurants,Lunch,2500,Debit Card,Lucknow,Electricity Board,Want
+EXP0198,2025-03-15,Shopping,Clothing,Personal item,12456,Wallet,Chennai,BookMyShow,Want
+EXP0199,2025-03-16,Food,Groceries,Dinner,1367,Net Banking,Kolkata,Swiggy,Want
+EXP0200,2025-03-16,Shopping,Clothing,Home item,5021,Debit Card,Mumbai,Uber,Want
+EXP0201,2025-03-16,Food,Snacks,Dinner,1103,UPI,Jaipur,Gym,Need
+EXP0202,2025-03-16,Shopping,Clothing,Online purchase,15000,UPI,Delhi,Jio,Want
+EXP0203,2025-03-17,Food,Groceries,Food order,2500,Cash,Chennai,Flipkart,Need
+EXP0204,2025-03-17,Bills & Utilities,Gas,Mobile recharge,1058,UPI,Delhi,Apollo Pharmacy,Want
+EXP0205,2025-03-17,Bills & Utilities,Internet,Utility payment,3813,UPI,Mumbai,Ola,Need
+EXP0206,2025-03-19,Shopping,Personal Care,Clothes,8416,Credit Card,Pune,Blinkit,Want
+EXP0207,2025-03-19,Personal,Gifts,Gift,7000,Net Banking,Lucknow,Fuel Station,Want
+EXP0208,2025-03-19,Shopping,Personal Care,Clothes,11617,Debit Card,Pune,IRCTC,Want
+EXP0209,2025-03-21,Health,Medicine,Doctor consultation,4883,UPI,Lucknow,Airtel,Need
+EXP0210,2025-03-22,Transport,Cab,Bus ticket,1656,Wallet,Hyderabad,Netflix,Need
+EXP0211,2025-03-22,Shopping,Electronics,Clothes,5640,Wallet,Kolkata,Amazon Prime,Want
+EXP0212,2025-03-22,Health,Medicine,Doctor consultation,3732,Debit Card,Delhi,BookMyShow,Need
+EXP0213,2025-03-22,Entertainment,Subscriptions,Subscription,3311,Cash,Mumbai,Amazon,Want
+EXP0214,2025-03-23,Personal,Gifts,Miscellaneous,1679,Debit Card,Bengaluru,Fuel Station,Want
+EXP0215,2025-03-24,Health,Healthcare,Health expense,4201,Debit Card,Kolkata,IRCTC,Need
+EXP0216,2025-03-24,Food,Restaurants,Snacks,905,Cash,Ahmedabad,Apollo Pharmacy,Need
+EXP0217,2025-03-25,Shopping,Electronics,Online purchase,10090,Credit Card,Ahmedabad,Jio,Want
+EXP0218,2025-03-26,Food,Groceries,Food order,1146,UPI,Delhi,Gym,Need
+EXP0219,2025-03-27,Transport,Fuel,Auto ride,5000,Cash,Kolkata,Medical Store,Want
+EXP0220,2025-03-27,Food,Restaurants,Monthly groceries,2050,Debit Card,Bengaluru,DMart,Need
+EXP0221,2025-03-27,Food,Restaurants,Food order,946,Credit Card,Hyderabad,Swiggy,Need
+EXP0222,2025-03-29,Food,Snacks,Snacks,2500,Debit Card,Bengaluru,Amazon Prime,Need
+EXP0223,2025-03-30,Transport,Cab,Cab ride,1946,Credit Card,Hyderabad,Blinkit,Want
+EXP0224,2025-03-30,Rent,House Rent,Monthly house rent,8000,Net Banking,Hyderabad,Gym,Need
+EXP0225,2025-03-31,Personal,Salon,Miscellaneous,4060,UPI,Ahmedabad,Gym,Want
+EXP0226,2025-03-31,Health,Gym,Doctor consultation,10000,Cash,Lucknow,Flipkart,Need
+EXP0227,2025-03-31,Health,Gym,Doctor consultation,1986,UPI,Lucknow,Apollo Pharmacy,Need
+EXP0228,2025-03-31,Health,Doctor,Medicine purchase,10000,Cash,Bengaluru,BigBasket,Need
+EXP0229,2025-04-01,Shopping,Electronics,Clothes,2576,Cash,Delhi,BookMyShow,Want
+EXP0230,2025-04-02,Education,Books,Online course,9126,UPI,Bengaluru,Zomato,Need
+EXP0231,2025-04-02,Personal,Salon,Miscellaneous,5072,Wallet,Lucknow,BookMyShow,Want
+EXP0232,2025-04-02,Transport,Cab,Fuel refill,2834,UPI,Hyderabad,Apollo Pharmacy,Need
+EXP0233,2025-04-02,Rent,House Rent,Monthly house rent,25000,UPI,Jaipur,Gym,Need
+EXP0234,2025-04-03,Personal,Miscellaneous,Miscellaneous,1770,Debit Card,Kolkata,Flipkart,Want
+EXP0235,2025-04-03,Personal,Gifts,Miscellaneous,2179,Wallet,Jaipur,Airtel,Want
+EXP0236,2025-04-04,Personal,Salon,Gift,2775,UPI,Kolkata,DMart,Want
+EXP0237,2025-04-04,Shopping,Personal Care,Personal item,13480,Debit Card,Hyderabad,Apollo Pharmacy,Want
+EXP0238,2025-04-05,Personal,Miscellaneous,Salon,3983,Net Banking,Mumbai,Fuel Station,Want
+EXP0239,2025-04-05,Shopping,Clothing,Home item,3749,UPI,Kolkata,Reliance Trends,Want
+EXP0240,2025-04-05,Food,Snacks,Monthly groceries,1403,UPI,Hyderabad,Apollo Pharmacy,Need
+EXP0241,2025-04-05,Food,Food Delivery,Dinner,2500,UPI,Ahmedabad,Gym,Need
+EXP0242,2025-04-05,Personal,Miscellaneous,Salon,3509,UPI,Pune,BigBasket,Want
+EXP0243,2025-04-06,Food,Restaurants,Food order,2500,Credit Card,Ahmedabad,Local Store,Need
+EXP0244,2025-04-06,Transport,Fuel,Cab ride,2818,Cash,Lucknow,DMart,Need
+EXP0245,2025-04-06,Bills & Utilities,Mobile,Utility payment,8000,Debit Card,Kolkata,DMart,Need
+EXP0246,2025-04-06,Shopping,Home,Home item,13362,UPI,Bengaluru,Local Store,Want
+EXP0247,2025-04-06,Health,Medicine,Gym fee,10000,UPI,Chennai,Zomato,Want
+EXP0248,2025-04-07,Personal,Miscellaneous,Personal expense,2539,Net Banking,Chennai,Flipkart,Want
+EXP0249,2025-04-07,Transport,Auto/Rickshaw,Fuel refill,888,Credit Card,Kolkata,Ola,Need
+EXP0250,2025-04-08,Health,Healthcare,Health expense,3766,Cash,Mumbai,Amazon,Need
+EXP0251,2025-04-08,Transport,Cab,Fuel refill,3864,UPI,Lucknow,Flipkart,Need
+EXP0252,2025-04-08,Transport,Cab,Fuel refill,3174,UPI,Bengaluru,Ola,Need
+EXP0253,2025-04-09,Transport,Auto/Rickshaw,Bus ticket,4101,Debit Card,Pune,Swiggy,Need
+EXP0254,2025-04-09,Transport,Auto/Rickshaw,Auto ride,2311,Credit Card,Delhi,BigBasket,Need
+EXP0255,2025-04-09,Transport,Auto/Rickshaw,Bus ticket,1247,Credit Card,Ahmedabad,Uber,Need
+EXP0256,2025-04-09,Entertainment,Games,Subscription,2392,Credit Card,Ahmedabad,BigBasket,Want
+EXP0257,2025-04-09,Entertainment,Subscriptions,Subscription,1577,Debit Card,Mumbai,Netflix,Want
+EXP0258,2025-04-09,Shopping,Electronics,Home item,2350,UPI,Lucknow,BookMyShow,Want
+EXP0259,2025-04-09,Health,Doctor,Gym fee,4562,Cash,Hyderabad,BookMyShow,Need
+EXP0260,2025-04-09,Travel,Hotels,Local travel,24090,UPI,Kolkata,Swiggy,Want
+EXP0261,2025-04-09,Food,Food Delivery,Snacks,1339,Credit Card,Delhi,Reliance Trends,Need
+EXP0262,2025-04-10,Shopping,Clothing,Online purchase,3703,Cash,Jaipur,Electricity Board,Want
+EXP0263,2025-04-10,Food,Groceries,Dinner,1695,Net Banking,Hyderabad,Reliance Trends,Need
+EXP0264,2025-04-10,Travel,Train/Bus,Train ticket,30000,Debit Card,Pune,Electricity Board,Want
+EXP0265,2025-04-10,Personal,Miscellaneous,Salon,1482,Credit Card,Lucknow,Local Store,Want
+EXP0266,2025-04-11,Shopping,Personal Care,Clothes,15000,Wallet,Lucknow,Reliance Trends,Want
+EXP0267,2025-04-11,Rent,House Rent,Monthly house rent,9463,UPI,Mumbai,DMart,Need
+EXP0268,2025-04-11,Food,Food Delivery,Lunch,2185,UPI,Kolkata,Blinkit,Need
+EXP0269,2025-04-11,Entertainment,Games,Event ticket,1307,Credit Card,Ahmedabad,Amazon,Want
+EXP0270,2025-04-11,Shopping,Electronics,Home item,9579,Cash,Pune,Zomato,Want
+EXP0271,2025-04-13,Transport,Public Transport,Auto ride,3764,Wallet,Bengaluru,Uber,Need
+EXP0272,2025-04-13,Education,Books,Course fee,9544,UPI,Jaipur,Zomato,Want
+EXP0273,2025-04-13,Shopping,Electronics,Personal item,4392,Debit Card,Hyderabad,Fuel Station,Want
+EXP0274,2025-04-13,Bills & Utilities,Electricity,Internet bill,2521,Debit Card,Hyderabad,Flipkart,Need
+EXP0275,2025-04-14,Food,Food Delivery,Monthly groceries,2483,Credit Card,Bengaluru,Flipkart,Need
+EXP0276,2025-04-14,Bills & Utilities,Gas,Utility payment,6848,Cash,Mumbai,Reliance Trends,Need
+EXP0277,2025-04-15,Health,Healthcare,Medicine purchase,5657,Cash,Bengaluru,Amazon,Need
+EXP0278,2025-04-15,Education,Online Learning,Online course,3238,UPI,Hyderabad,Swiggy,Need
+EXP0279,2025-04-16,Entertainment,Movies,Movie ticket,1760,Debit Card,Bengaluru,DMart,Want
+EXP0280,2025-04-16,Health,Medicine,Doctor consultation,7766,UPI,Delhi,Netflix,Want
+EXP0281,2025-04-16,Shopping,Electronics,Online purchase,15000,Credit Card,Jaipur,Uber,Want
+EXP0282,2025-04-17,Bills & Utilities,Mobile,Internet bill,2759,Credit Card,Bengaluru,IRCTC,Want
+EXP0283,2025-04-17,Transport,Public Transport,Auto ride,5000,Cash,Hyderabad,Netflix,Want
+EXP0284,2025-04-18,Bills & Utilities,Gas,Mobile recharge,3579,Wallet,Delhi,Gym,Need
+EXP0285,2025-04-18,Rent,House Rent,Monthly house rent,25000,Net Banking,Mumbai,Amazon,Need
+EXP0286,2025-04-19,Personal,Salon,Personal expense,7000,Debit Card,Delhi,Reliance Trends,Want
+EXP0287,2025-04-19,Shopping,Home,Personal item,5857,UPI,Bengaluru,Flipkart,Want
+EXP0288,2025-04-21,Shopping,Personal Care,Personal item,4998,UPI,Kolkata,Electricity Board,Want
+EXP0289,2025-04-21,Health,Gym,Medicine purchase,5775,UPI,Pune,Electricity Board,Want
+EXP0290,2025-04-21,Food,Food Delivery,Lunch,2500,Cash,Kolkata,DMart,Need
+EXP0291,2025-04-21,Shopping,Home,Personal item,7405,Wallet,Chennai,BookMyShow,Want
+EXP0292,2025-04-21,Food,Food Delivery,Lunch,2500,Cash,Lucknow,Jio,Need
+EXP0293,2025-04-22,Food,Snacks,Snacks,795,Credit Card,Mumbai,Ola,Need
+EXP0294,2025-04-22,Transport,Fuel,Cab ride,3955,Wallet,Pune,Zomato,Need
+EXP0295,2025-04-22,Travel,Hotels,Hotel booking,30000,Debit Card,Bengaluru,Zomato,Want
+EXP0296,2025-04-22,Bills & Utilities,Water,Utility payment,3676,Debit Card,Lucknow,Medical Store,Want
+EXP0297,2025-04-23,Transport,Fuel,Fuel refill,1987,Debit Card,Bengaluru,Ola,Want
+EXP0298,2025-04-23,Health,Doctor,Health expense,3537,Net Banking,Lucknow,Blinkit,Need
+EXP0299,2025-04-23,Shopping,Electronics,Clothes,10599,Credit Card,Kolkata,BookMyShow,Want
+EXP0300,2025-04-23,Shopping,Clothing,Clothes,13514,Net Banking,Mumbai,Medical Store,Want
+EXP0301,2025-04-23,Health,Healthcare,Doctor consultation,6883,UPI,Kolkata,BigBasket,Need
+EXP0302,2025-04-23,Rent,House Rent,Monthly house rent,25000,Net Banking,Jaipur,BookMyShow,Need
+EXP0303,2025-04-23,Transport,Auto/Rickshaw,Bus ticket,2714,Credit Card,Kolkata,Local Store,Need
+EXP0304,2025-04-24,Shopping,Clothing,Clothes,8668,Net Banking,Delhi,Uber,Want
+EXP0305,2025-04-24,Shopping,Electronics,Home item,11205,UPI,Bengaluru,Amazon,Want
+EXP0306,2025-04-25,Bills & Utilities,Internet,Internet bill,8000,Cash,Kolkata,Ola,Need
+EXP0307,2025-04-26,Personal,Gifts,Miscellaneous,1629,UPI,Hyderabad,Medical Store,Want
+EXP0308,2025-04-26,Entertainment,Games,Movie ticket,3659,UPI,Hyderabad,Electricity Board,Want
+EXP0309,2025-04-26,Transport,Auto/Rickshaw,Cab ride,2962,Credit Card,Chennai,IRCTC,Need
+EXP0310,2025-04-27,Entertainment,Movies,Movie ticket,4872,UPI,Bengaluru,IRCTC,Want
+EXP0311,2025-04-27,Shopping,Electronics,Clothes,3369,UPI,Delhi,Electricity Board,Want
+EXP0312,2025-04-28,Personal,Gifts,Personal expense,5459,UPI,Lucknow,DMart,Want
+EXP0313,2025-04-28,Transport,Auto/Rickshaw,Cab ride,1589,Net Banking,Pune,Electricity Board,Want
+EXP0314,2025-04-28,Transport,Cab,Bus ticket,632,Credit Card,Chennai,DMart,Want
+EXP0315,2025-04-28,Education,Online Learning,Online course,5020,Credit Card,Chennai,Blinkit,Need
+EXP0316,2025-04-29,Rent,House Rent,Monthly house rent,17879,UPI,Chennai,Flipkart,Want
+EXP0317,2025-04-29,Food,Restaurants,Lunch,1105,Credit Card,Lucknow,Electricity Board,Want
+EXP0318,2025-04-30,Entertainment,Subscriptions,Game purchase,5000,Debit Card,Ahmedabad,Fuel Station,Want
+EXP0319,2025-04-30,Bills & Utilities,Water,Monthly bill,4218,UPI,Delhi,Uber,Need
+EXP0320,2025-05-01,Food,Snacks,Lunch,1444,Wallet,Mumbai,BookMyShow,Need
+EXP0321,2025-05-01,Shopping,Home,Online purchase,7251,Debit Card,Ahmedabad,IRCTC,Want
+EXP0322,2025-05-02,Transport,Cab,Cab ride,1986,UPI,Hyderabad,Swiggy,Need
+EXP0323,2025-05-02,Shopping,Home,Online purchase,3957,UPI,Chennai,Jio,Want
+EXP0324,2025-05-02,Entertainment,Subscriptions,Event ticket,2265,UPI,Lucknow,Amazon Prime,Want
+EXP0325,2025-05-02,Bills & Utilities,Mobile,Monthly bill,1568,Cash,Jaipur,Electricity Board,Need
+EXP0326,2025-05-02,Food,Restaurants,Lunch,691,Credit Card,Hyderabad,Jio,Want
+EXP0327,2025-05-02,Health,Gym,Gym fee,7958,Credit Card,Mumbai,Medical Store,Need
+EXP0328,2025-05-03,Rent,House Rent,Monthly house rent,8297,UPI,Kolkata,Uber,Need
+EXP0329,2025-05-04,Food,Snacks,Monthly groceries,547,Wallet,Mumbai,DMart,Need
+EXP0330,2025-05-04,Rent,House Rent,Monthly house rent,18298,Net Banking,Jaipur,Jio,Want
+EXP0331,2025-05-05,Transport,Fuel,Cab ride,2452,Cash,Jaipur,Netflix,Want
+EXP0332,2025-05-06,Entertainment,Games,Movie ticket,3038,Credit Card,Ahmedabad,Airtel,Want
+EXP0333,2025-05-06,Personal,Salon,Salon,545,UPI,Jaipur,Uber,Want
+EXP0334,2025-05-06,Shopping,Personal Care,Online purchase,6488,Wallet,Kolkata,Fuel Station,Want
+EXP0335,2025-05-06,Bills & Utilities,Gas,Monthly bill,3230,Credit Card,Delhi,Jio,Need
+EXP0336,2025-05-06,Transport,Public Transport,Auto ride,5000,Cash,Chennai,Fuel Station,Want
+EXP0337,2025-05-06,Travel,Hotels,Local travel,14500,Debit Card,Bengaluru,Local Store,Want
+EXP0338,2025-05-07,Shopping,Personal Care,Home item,7794,UPI,Lucknow,Flipkart,Want
+EXP0339,2025-05-07,Personal,Gifts,Personal expense,6295,UPI,Kolkata,Flipkart,Want
+EXP0340,2025-05-07,Shopping,Personal Care,Clothes,15000,Credit Card,Hyderabad,Jio,Want
+EXP0341,2025-05-08,Travel,Hotels,Travel ticket,17599,UPI,Kolkata,Electricity Board,Want
+EXP0342,2025-05-08,Shopping,Clothing,Clothes,2960,UPI,Ahmedabad,Airtel,Want
+EXP0343,2025-05-08,Education,Books,Online course,9432,UPI,Hyderabad,BigBasket,Need
+EXP0344,2025-05-08,Travel,Hotels,Local travel,20632,Cash,Jaipur,Jio,Want
+EXP0345,2025-05-09,Entertainment,Events,Movie ticket,5000,Wallet,Hyderabad,DMart,Want
+EXP0346,2025-05-09,Bills & Utilities,Internet,Utility payment,2906,UPI,Ahmedabad,Swiggy,Need
+EXP0347,2025-05-09,Travel,Train/Bus,Local travel,11911,Debit Card,Pune,Ola,Want
+EXP0348,2025-05-10,Food,Restaurants,Lunch,366,UPI,Jaipur,BigBasket,Need
+EXP0349,2025-05-10,Bills & Utilities,Mobile,Utility payment,6131,Debit Card,Lucknow,Swiggy,Need
+EXP0350,2025-05-11,Health,Doctor,Medicine purchase,10000,Wallet,Delhi,Netflix,Need
+EXP0351,2025-05-11,Rent,House Rent,Monthly house rent,25000,Net Banking,Hyderabad,Uber,Need
+EXP0352,2025-05-11,Food,Groceries,Lunch,714,UPI,Delhi,Medical Store,Want
+EXP0353,2025-05-11,Transport,Fuel,Cab ride,2074,UPI,Lucknow,Flipkart,Need
+EXP0354,2025-05-12,Education,Courses,Online course,6804,UPI,Kolkata,Apollo Pharmacy,Need
+EXP0355,2025-05-13,Personal,Gifts,Miscellaneous,7000,Credit Card,Lucknow,BookMyShow,Want
+EXP0356,2025-05-13,Entertainment,Events,Event ticket,583,Debit Card,Mumbai,Swiggy,Want
+EXP0357,2025-05-13,Food,Food Delivery,Monthly groceries,724,UPI,Bengaluru,Local Store,Need
+EXP0358,2025-05-13,Entertainment,Subscriptions,Game purchase,1607,UPI,Jaipur,BookMyShow,Want
+EXP0359,2025-05-13,Transport,Cab,Fuel refill,4112,Cash,Hyderabad,Local Store,Need
+EXP0360,2025-05-14,Bills & Utilities,Mobile,Mobile recharge,3733,UPI,Mumbai,Electricity Board,Need
+EXP0361,2025-05-14,Bills & Utilities,Water,Mobile recharge,6134,Credit Card,Jaipur,Fuel Station,Need
+EXP0362,2025-05-14,Food,Groceries,Food order,1016,Credit Card,Jaipur,Zomato,Need
+EXP0363,2025-05-15,Travel,Hotels,Hotel booking,30000,Net Banking,Kolkata,Electricity Board,Want
+EXP0364,2025-05-15,Food,Snacks,Lunch,518,Cash,Pune,Local Store,Need
+EXP0365,2025-05-15,Education,Online Learning,Stationery,5278,Debit Card,Hyderabad,Medical Store,Need
+EXP0366,2025-05-16,Transport,Cab,Fuel refill,1571,UPI,Delhi,IRCTC,Need
+EXP0367,2025-05-16,Transport,Public Transport,Fuel refill,4148,UPI,Kolkata,Amazon,Need
+EXP0368,2025-05-16,Food,Food Delivery,Food order,931,UPI,Jaipur,Gym,Need
+EXP0369,2025-05-17,Shopping,Electronics,Online purchase,4417,UPI,Pune,Medical Store,Want
+EXP0370,2025-05-17,Transport,Fuel,Auto ride,3217,UPI,Kolkata,Medical Store,Need
+EXP0371,2025-05-18,Rent,House Rent,Monthly house rent,25000,UPI,Ahmedabad,Local Store,Need
+EXP0372,2025-05-19,Personal,Salon,Gift,7000,Debit Card,Delhi,Zomato,Want
+EXP0373,2025-05-19,Entertainment,Games,Subscription,2307,Cash,Mumbai,Swiggy,Want
+EXP0374,2025-05-20,Food,Restaurants,Food order,948,Wallet,Lucknow,DMart,Need
+EXP0375,2025-05-20,Entertainment,Games,Event ticket,1741,UPI,Bengaluru,Reliance Trends,Want
+EXP0376,2025-05-21,Entertainment,Subscriptions,Subscription,2177,Cash,Jaipur,Local Store,Want
+EXP0377,2025-05-21,Transport,Auto/Rickshaw,Fuel refill,2620,Debit Card,Chennai,Jio,Need
+EXP0378,2025-05-22,Rent,House Rent,Monthly house rent,25000,UPI,Mumbai,IRCTC,Need
+EXP0379,2025-05-22,Personal,Salon,Salon,3099,Cash,Bengaluru,Amazon Prime,Want
+EXP0380,2025-05-23,Transport,Auto/Rickshaw,Fuel refill,5000,UPI,Lucknow,Electricity Board,Need
+EXP0381,2025-05-23,Transport,Fuel,Cab ride,2768,Cash,Pune,Amazon Prime,Want
+EXP0382,2025-05-23,Food,Food Delivery,Lunch,1389,UPI,Ahmedabad,Apollo Pharmacy,Need
+EXP0383,2025-05-24,Bills & Utilities,Gas,Utility payment,3282,Cash,Ahmedabad,Electricity Board,Need
+EXP0384,2025-05-24,Rent,House Rent,Monthly house rent,25000,UPI,Lucknow,Netflix,Need
+EXP0385,2025-05-24,Shopping,Personal Care,Online purchase,1934,UPI,Bengaluru,DMart,Want
+EXP0386,2025-05-24,Personal,Miscellaneous,Gift,3642,UPI,Jaipur,Uber,Want
+EXP0387,2025-05-24,Food,Groceries,Monthly groceries,1127,Debit Card,Kolkata,Gym,Need
+EXP0388,2025-05-24,Transport,Cab,Bus ticket,4477,UPI,Jaipur,Amazon,Need
+EXP0389,2025-05-24,Transport,Public Transport,Fuel refill,5000,UPI,Mumbai,Local Store,Want
+EXP0390,2025-05-25,Health,Medicine,Doctor consultation,7492,UPI,Jaipur,Netflix,Want
+EXP0391,2025-05-25,Food,Restaurants,Lunch,747,UPI,Jaipur,BigBasket,Need
+EXP0392,2025-05-25,Food,Food Delivery,Lunch,652,Credit Card,Lucknow,BigBasket,Need
+EXP0393,2025-05-25,Bills & Utilities,Internet,Internet bill,4677,UPI,Bengaluru,Amazon Prime,Need
+EXP0394,2025-05-25,Bills & Utilities,Internet,Monthly bill,7256,UPI,Pune,Uber,Need
+EXP0395,2025-05-26,Transport,Public Transport,Fuel refill,5000,Credit Card,Bengaluru,Jio,Need
+EXP0396,2025-05-26,Bills & Utilities,Internet,Utility payment,6967,Debit Card,Jaipur,Fuel Station,Need
+EXP0397,2025-05-26,Food,Snacks,Snacks,2500,Debit Card,Delhi,Jio,Need
+EXP0398,2025-05-27,Transport,Public Transport,Cab ride,4112,UPI,Kolkata,IRCTC,Need
+EXP0399,2025-05-27,Bills & Utilities,Water,Mobile recharge,6195,UPI,Hyderabad,Swiggy,Need
+EXP0400,2025-05-27,Shopping,Personal Care,Personal item,9917,UPI,Jaipur,BigBasket,Want
+EXP0401,2025-05-27,Entertainment,Movies,Game purchase,2374,Credit Card,Chennai,Zomato,Want
+EXP0402,2025-05-27,Food,Restaurants,Dinner,1943,Credit Card,Chennai,DMart,Want
+EXP0403,2025-05-27,Bills & Utilities,Mobile,Mobile recharge,4230,Debit Card,Chennai,Ola,Need
+EXP0404,2025-05-28,Shopping,Clothing,Personal item,6641,Wallet,Chennai,Ola,Want
+EXP0405,2025-05-28,Shopping,Personal Care,Home item,12249,UPI,Delhi,Gym,Want
+EXP0406,2025-05-28,Health,Doctor,Doctor consultation,9077,UPI,Bengaluru,Gym,Need
+EXP0407,2025-05-29,Entertainment,Events,Movie ticket,4727,Debit Card,Hyderabad,Flipkart,Want
+EXP0408,2025-05-30,Food,Groceries,Monthly groceries,2373,Credit Card,Kolkata,Airtel,Need
+EXP0409,2025-05-30,Rent,House Rent,Monthly house rent,16869,Net Banking,Chennai,Jio,Want
+EXP0410,2025-05-30,Health,Doctor,Doctor consultation,3430,UPI,Hyderabad,Airtel,Need
+EXP0411,2025-05-31,Food,Restaurants,Food order,1890,Credit Card,Jaipur,Amazon,Need
+EXP0412,2025-05-31,Food,Restaurants,Food order,1660,UPI,Ahmedabad,BookMyShow,Need
+EXP0413,2025-05-31,Bills & Utilities,Water,Monthly bill,2434,Debit Card,Lucknow,Ola,Need
+EXP0414,2025-05-31,Shopping,Home,Personal item,3850,Cash,Ahmedabad,Fuel Station,Want
+EXP0415,2025-05-31,Shopping,Home,Personal item,6804,UPI,Chennai,Amazon,Want
+EXP0416,2025-06-01,Entertainment,Movies,Movie ticket,3473,Credit Card,Mumbai,Blinkit,Want
+EXP0417,2025-06-01,Education,Books,Course fee,11276,UPI,Delhi,Gym,Want
+EXP0418,2025-06-01,Transport,Fuel,Auto ride,3369,UPI,Chennai,Flipkart,Need
+EXP0419,2025-06-01,Entertainment,Subscriptions,Game purchase,2867,Credit Card,Hyderabad,Netflix,Want
+EXP0420,2025-06-01,Food,Food Delivery,Lunch,2500,Credit Card,Hyderabad,Medical Store,Want
+EXP0421,2025-06-01,Shopping,Home,Personal item,6007,Cash,Ahmedabad,DMart,Want
+EXP0422,2025-06-02,Shopping,Home,Clothes,2655,Net Banking,Chennai,Medical Store,Want
+EXP0423,2025-06-02,Education,Online Learning,Stationery,9009,Debit Card,Jaipur,Amazon,Need
+EXP0424,2025-06-03,Entertainment,Events,Game purchase,2180,UPI,Chennai,Airtel,Want
+EXP0425,2025-06-03,Health,Doctor,Health expense,5368,Wallet,Jaipur,Medical Store,Need
+EXP0426,2025-06-03,Transport,Public Transport,Fuel refill,5000,Cash,Ahmedabad,Blinkit,Need
+EXP0427,2025-06-04,Bills & Utilities,Internet,Mobile recharge,7595,Credit Card,Kolkata,Electricity Board,Want
+EXP0428,2025-06-04,Transport,Cab,Fuel refill,5000,Debit Card,Chennai,Apollo Pharmacy,Need
+EXP0429,2025-06-05,Bills & Utilities,Gas,Mobile recharge,2053,Debit Card,Lucknow,Medical Store,Need
+EXP0430,2025-06-06,Food,Snacks,Monthly groceries,1750,UPI,Lucknow,Blinkit,Need
+EXP0431,2025-06-07,Personal,Gifts,Gift,7000,Debit Card,Jaipur,Electricity Board,Want
+EXP0432,2025-06-07,Food,Groceries,Monthly groceries,1295,Credit Card,Ahmedabad,Medical Store,Need
+EXP0433,2025-06-07,Shopping,Clothing,Online purchase,2510,Credit Card,Bengaluru,Electricity Board,Want
+EXP0434,2025-06-09,Entertainment,Subscriptions,Subscription,4247,Cash,Jaipur,BookMyShow,Want
+EXP0435,2025-06-09,Shopping,Personal Care,Personal item,10351,Cash,Kolkata,Swiggy,Want
+EXP0436,2025-06-09,Personal,Salon,Gift,1425,Debit Card,Bengaluru,IRCTC,Want
+EXP0437,2025-06-09,Bills & Utilities,Mobile,Utility payment,1086,UPI,Pune,Ola,Need
+EXP0438,2025-06-09,Shopping,Clothing,Home item,15000,UPI,Lucknow,Swiggy,Want
+EXP0439,2025-06-09,Food,Food Delivery,Lunch,1341,UPI,Bengaluru,IRCTC,Want
+EXP0440,2025-06-09,Bills & Utilities,Water,Mobile recharge,979,Debit Card,Hyderabad,Amazon Prime,Need
+EXP0441,2025-06-10,Transport,Auto/Rickshaw,Fuel refill,2774,Debit Card,Jaipur,Fuel Station,Need
+EXP0442,2025-06-10,Personal,Salon,Gift,3913,Debit Card,Hyderabad,Amazon Prime,Want
+EXP0443,2025-06-10,Entertainment,Games,Game purchase,1136,Net Banking,Delhi,Fuel Station,Want
+EXP0444,2025-06-10,Shopping,Personal Care,Personal item,2895,Debit Card,Jaipur,BigBasket,Want
+EXP0445,2025-06-11,Bills & Utilities,Electricity,Mobile recharge,1496,Cash,Hyderabad,Uber,Need
+EXP0446,2025-06-11,Health,Medicine,Medicine purchase,5532,UPI,Ahmedabad,Gym,Need
+EXP0447,2025-06-12,Transport,Public Transport,Fuel refill,3625,UPI,Jaipur,IRCTC,Need
+EXP0448,2025-06-12,Bills & Utilities,Mobile,Monthly bill,8000,UPI,Mumbai,Fuel Station,Need
+EXP0449,2025-06-12,Shopping,Home,Home item,5636,UPI,Pune,Gym,Want
+EXP0450,2025-06-12,Shopping,Electronics,Personal item,15000,UPI,Bengaluru,Apollo Pharmacy,Want
+EXP0451,2025-06-13,Travel,Flights,Hotel booking,6358,Debit Card,Kolkata,Apollo Pharmacy,Want
+EXP0452,2025-06-13,Shopping,Electronics,Personal item,3917,Credit Card,Ahmedabad,Reliance Trends,Want
+EXP0453,2025-06-13,Bills & Utilities,Mobile,Mobile recharge,7140,Cash,Pune,Netflix,Need
+EXP0454,2025-06-14,Education,Courses,Stationery,10233,Debit Card,Delhi,Ola,Need
+EXP0455,2025-06-14,Food,Restaurants,Dinner,2226,UPI,Delhi,Zomato,Need
+EXP0456,2025-06-14,Food,Food Delivery,Snacks,593,UPI,Jaipur,Swiggy,Need
+EXP0457,2025-06-15,Food,Restaurants,Lunch,2222,UPI,Hyderabad,Flipkart,Need
+EXP0458,2025-06-16,Bills & Utilities,Mobile,Utility payment,2219,UPI,Mumbai,Ola,Need
+EXP0459,2025-06-16,Shopping,Clothing,Clothes,4952,UPI,Bengaluru,Fuel Station,Want
+EXP0460,2025-06-17,Education,Courses,Stationery,4614,Credit Card,Lucknow,Fuel Station,Need
+EXP0461,2025-06-17,Bills & Utilities,Water,Utility payment,1853,Debit Card,Pune,Electricity Board,Need
+EXP0462,2025-06-18,Transport,Fuel,Auto ride,2262,Cash,Bengaluru,IRCTC,Need
+EXP0463,2025-06-19,Transport,Cab,Auto ride,3992,UPI,Bengaluru,Netflix,Need
+EXP0464,2025-06-19,Bills & Utilities,Water,Internet bill,3631,Debit Card,Kolkata,Netflix,Need
+EXP0465,2025-06-19,Health,Doctor,Gym fee,10000,UPI,Hyderabad,Netflix,Need
+EXP0466,2025-06-19,Entertainment,Subscriptions,Event ticket,1286,Cash,Bengaluru,Uber,Want
+EXP0467,2025-06-19,Bills & Utilities,Mobile,Mobile recharge,2292,UPI,Pune,Reliance Trends,Need
+EXP0468,2025-06-19,Transport,Auto/Rickshaw,Cab ride,4483,Cash,Mumbai,Apollo Pharmacy,Want
+EXP0469,2025-06-20,Food,Snacks,Food order,2500,UPI,Mumbai,Blinkit,Want
+EXP0470,2025-06-21,Education,Stationery,Online course,12000,Debit Card,Kolkata,Jio,Need
+EXP0471,2025-06-21,Education,Books,Online course,3239,Net Banking,Lucknow,BookMyShow,Need
+EXP0472,2025-06-21,Food,Snacks,Monthly groceries,1928,Credit Card,Lucknow,Flipkart,Want
+EXP0473,2025-06-21,Transport,Fuel,Auto ride,5000,UPI,Chennai,Flipkart,Need
+EXP0474,2025-06-22,Travel,Flights,Local travel,20875,UPI,Bengaluru,Gym,Want
+EXP0475,2025-06-22,Entertainment,Subscriptions,Movie ticket,892,Credit Card,Delhi,Flipkart,Want
+EXP0476,2025-06-22,Bills & Utilities,Water,Internet bill,2069,Net Banking,Bengaluru,Swiggy,Want
+EXP0477,2025-06-22,Health,Doctor,Doctor consultation,5109,Debit Card,Kolkata,Airtel,Need
+EXP0478,2025-06-22,Transport,Fuel,Fuel refill,3365,UPI,Mumbai,Reliance Trends,Need
+EXP0479,2025-06-22,Food,Restaurants,Snacks,1932,Debit Card,Chennai,Ola,Need
+EXP0480,2025-06-23,Transport,Cab,Cab ride,2231,Net Banking,Hyderabad,Fuel Station,Need
+EXP0481,2025-06-23,Transport,Public Transport,Cab ride,3934,UPI,Jaipur,Uber,Need
+EXP0482,2025-06-24,Travel,Hotels,Local travel,4880,Debit Card,Mumbai,Electricity Board,Want
+EXP0483,2025-06-25,Transport,Auto/Rickshaw,Bus ticket,4843,Debit Card,Pune,Jio,Need
+EXP0484,2025-06-25,Shopping,Clothing,Home item,9483,UPI,Jaipur,Airtel,Want
+EXP0485,2025-06-26,Transport,Fuel,Auto ride,645,UPI,Chennai,Medical Store,Need
+EXP0486,2025-06-26,Rent,House Rent,Monthly house rent,10091,UPI,Jaipur,BigBasket,Need
+EXP0487,2025-06-26,Food,Food Delivery,Food order,2500,UPI,Bengaluru,Reliance Trends,Need
+EXP0488,2025-06-26,Transport,Public Transport,Fuel refill,3314,Cash,Pune,Apollo Pharmacy,Need
+EXP0489,2025-06-27,Food,Snacks,Lunch,610,Cash,Ahmedabad,DMart,Need
+EXP0490,2025-06-27,Food,Snacks,Monthly groceries,1020,UPI,Ahmedabad,Amazon Prime,Need
+EXP0491,2025-06-28,Transport,Auto/Rickshaw,Cab ride,2141,Debit Card,Ahmedabad,IRCTC,Want
+EXP0492,2025-06-28,Food,Restaurants,Monthly groceries,373,Credit Card,Lucknow,Amazon Prime,Need
+EXP0493,2025-06-29,Food,Restaurants,Dinner,2031,UPI,Ahmedabad,Local Store,Need
+EXP0494,2025-06-29,Rent,House Rent,Monthly house rent,25000,UPI,Lucknow,Reliance Trends,Need
+EXP0495,2025-06-29,Health,Medicine,Gym fee,10000,UPI,Hyderabad,Flipkart,Want
+EXP0496,2025-06-29,Entertainment,Games,Subscription,2176,Debit Card,Delhi,Fuel Station,Want
+EXP0497,2025-06-29,Travel,Train/Bus,Hotel booking,20614,UPI,Lucknow,Swiggy,Want
+EXP0498,2025-06-30,Shopping,Clothing,Online purchase,5562,UPI,Ahmedabad,Medical Store,Want
+EXP0499,2025-06-30,Food,Groceries,Food order,603,UPI,Delhi,Fuel Station,Need
+EXP0500,2025-07-01,Rent,House Rent,Monthly house rent,11790,UPI,Chennai,Fuel Station,Want
+EXP0501,2025-07-02,Food,Restaurants,Monthly groceries,1158,UPI,Mumbai,Ola,Need
+EXP0502,2025-07-02,Entertainment,Subscriptions,Subscription,3469,UPI,Chennai,Local Store,Want
+EXP0503,2025-07-03,Food,Food Delivery,Lunch,904,Debit Card,Delhi,Gym,Need
+EXP0504,2025-07-03,Rent,House Rent,Monthly house rent,13383,UPI,Chennai,Apollo Pharmacy,Want
+EXP0505,2025-07-03,Bills & Utilities,Internet,Mobile recharge,4882,UPI,Bengaluru,Flipkart,Need
+EXP0506,2025-07-04,Food,Groceries,Dinner,974,UPI,Hyderabad,BookMyShow,Need
+EXP0507,2025-07-05,Transport,Auto/Rickshaw,Fuel refill,5000,UPI,Pune,Apollo Pharmacy,Need
+EXP0508,2025-07-05,Bills & Utilities,Internet,Monthly bill,8000,UPI,Kolkata,Amazon,Need
+EXP0509,2025-07-05,Bills & Utilities,Gas,Monthly bill,2733,Credit Card,Jaipur,Electricity Board,Need
+EXP0510,2025-07-06,Transport,Public Transport,Cab ride,4493,Credit Card,Kolkata,Swiggy,Need
+EXP0511,2025-07-06,Entertainment,Games,Subscription,979,Debit Card,Pune,Amazon,Want
+EXP0512,2025-07-06,Travel,Local Travel,Local travel,10310,Credit Card,Ahmedabad,Electricity Board,Want
+EXP0513,2025-07-06,Personal,Gifts,Gift,6142,Wallet,Ahmedabad,Fuel Station,Want
+EXP0514,2025-07-06,Entertainment,Subscriptions,Subscription,1032,UPI,Jaipur,Amazon Prime,Want
+EXP0515,2025-07-07,Education,Books,Book purchase,3058,Cash,Ahmedabad,Apollo Pharmacy,Need
+EXP0516,2025-07-07,Bills & Utilities,Internet,Utility payment,2147,Credit Card,Ahmedabad,Amazon,Need
+EXP0517,2025-07-07,Food,Restaurants,Snacks,1897,UPI,Mumbai,Apollo Pharmacy,Need
+EXP0518,2025-07-08,Transport,Cab,Auto ride,3903,UPI,Jaipur,Medical Store,Need
+EXP0519,2025-07-08,Transport,Cab,Bus ticket,3439,Cash,Hyderabad,DMart,Need
+EXP0520,2025-07-09,Bills & Utilities,Mobile,Monthly bill,8000,Debit Card,Hyderabad,Apollo Pharmacy,Want
+EXP0521,2025-07-09,Entertainment,Events,Game purchase,2482,UPI,Jaipur,Ola,Want
+EXP0522,2025-07-09,Food,Groceries,Lunch,1624,UPI,Jaipur,Swiggy,Need
+EXP0523,2025-07-09,Transport,Auto/Rickshaw,Cab ride,1882,Net Banking,Ahmedabad,Airtel,Need
+EXP0524,2025-07-09,Education,Courses,Online course,12000,UPI,Ahmedabad,Netflix,Need
+EXP0525,2025-07-09,Shopping,Home,Online purchase,15000,UPI,Pune,Ola,Want
+EXP0526,2025-07-10,Food,Snacks,Snacks,1107,Wallet,Pune,Local Store,Need
+EXP0527,2025-07-10,Shopping,Clothing,Clothes,6040,UPI,Lucknow,Flipkart,Want
+EXP0528,2025-07-10,Shopping,Clothing,Personal item,4550,UPI,Hyderabad,Netflix,Want
+EXP0529,2025-07-11,Shopping,Clothing,Online purchase,13713,Net Banking,Lucknow,BigBasket,Want
+EXP0530,2025-07-11,Food,Food Delivery,Monthly groceries,211,UPI,Jaipur,Netflix,Need
+EXP0531,2025-07-11,Health,Doctor,Medicine purchase,6322,Credit Card,Mumbai,Swiggy,Need
+EXP0532,2025-07-11,Transport,Fuel,Cab ride,5000,UPI,Hyderabad,IRCTC,Need
+EXP0533,2025-07-11,Education,Books,Course fee,4339,UPI,Bengaluru,Airtel,Need
+EXP0534,2025-07-11,Transport,Public Transport,Auto ride,2557,UPI,Delhi,Medical Store,Need
+EXP0535,2025-07-11,Food,Groceries,Lunch,1225,UPI,Ahmedabad,Reliance Trends,Need
+EXP0536,2025-07-13,Entertainment,Events,Subscription,5000,Debit Card,Bengaluru,Gym,Want
+EXP0537,2025-07-13,Travel,Hotels,Hotel booking,16316,Cash,Ahmedabad,Flipkart,Want
+EXP0538,2025-07-13,Transport,Public Transport,Fuel refill,2212,UPI,Lucknow,Gym,Want
+EXP0539,2025-07-14,Bills & Utilities,Mobile,Monthly bill,2787,UPI,Chennai,Blinkit,Want
+EXP0540,2025-07-14,Transport,Public Transport,Auto ride,3815,Wallet,Pune,Netflix,Need
+EXP0541,2025-07-14,Shopping,Electronics,Online purchase,3027,UPI,Kolkata,Netflix,Want
+EXP0542,2025-07-15,Education,Courses,Stationery,8600,UPI,Kolkata,Ola,Need
+EXP0543,2025-07-15,Personal,Gifts,Miscellaneous,1306,Cash,Pune,Zomato,Want
+EXP0544,2025-07-16,Shopping,Home,Home item,6827,UPI,Mumbai,Amazon Prime,Want
+EXP0545,2025-07-16,Food,Snacks,Dinner,544,Debit Card,Mumbai,Gym,Want
+EXP0546,2025-07-17,Food,Snacks,Monthly groceries,1049,Credit Card,Bengaluru,Amazon,Need
+EXP0547,2025-07-17,Bills & Utilities,Water,Monthly bill,2089,Debit Card,Hyderabad,Airtel,Need
+EXP0548,2025-07-17,Food,Restaurants,Dinner,836,UPI,Jaipur,Reliance Trends,Need
+EXP0549,2025-07-17,Food,Groceries,Monthly groceries,787,Cash,Ahmedabad,Reliance Trends,Need
+EXP0550,2025-07-18,Transport,Fuel,Auto ride,1007,Debit Card,Bengaluru,BookMyShow,Need
+EXP0551,2025-07-20,Shopping,Home,Online purchase,3351,Cash,Pune,BookMyShow,Want
+EXP0552,2025-07-20,Health,Medicine,Gym fee,8263,UPI,Lucknow,Medical Store,Need
+EXP0553,2025-07-20,Shopping,Electronics,Home item,5239,UPI,Bengaluru,BookMyShow,Want
+EXP0554,2025-07-21,Health,Gym,Medicine purchase,2776,Wallet,Mumbai,Jio,Want
+EXP0555,2025-07-21,Food,Groceries,Food order,416,UPI,Delhi,Amazon,Need
+EXP0556,2025-07-21,Transport,Public Transport,Bus ticket,3415,Credit Card,Ahmedabad,Amazon Prime,Need
+EXP0557,2025-07-21,Food,Food Delivery,Lunch,1736,UPI,Jaipur,Amazon,Need
+EXP0558,2025-07-22,Food,Groceries,Snacks,1213,Cash,Bengaluru,Ola,Need
+EXP0559,2025-07-22,Personal,Salon,Gift,2129,UPI,Bengaluru,IRCTC,Want
+EXP0560,2025-07-22,Entertainment,Events,Event ticket,3444,Credit Card,Bengaluru,DMart,Want
+EXP0561,2025-07-23,Transport,Auto/Rickshaw,Cab ride,1665,Credit Card,Bengaluru,Blinkit,Need
+EXP0562,2025-07-24,Transport,Cab,Cab ride,3589,UPI,Delhi,Ola,Need
+EXP0563,2025-07-24,Entertainment,Subscriptions,Subscription,2459,Net Banking,Chennai,Gym,Want
+EXP0564,2025-07-25,Transport,Cab,Bus ticket,1179,UPI,Chennai,Ola,Want
+EXP0565,2025-07-25,Food,Restaurants,Monthly groceries,1182,UPI,Hyderabad,Zomato,Need
+EXP0566,2025-07-26,Health,Medicine,Gym fee,5903,UPI,Chennai,BigBasket,Need
+EXP0567,2025-07-26,Food,Snacks,Lunch,2500,UPI,Delhi,Apollo Pharmacy,Need
+EXP0568,2025-07-26,Transport,Fuel,Fuel refill,5000,UPI,Lucknow,Jio,Need
+EXP0569,2025-07-27,Transport,Cab,Auto ride,4281,Credit Card,Ahmedabad,Ola,Want
+EXP0570,2025-07-27,Transport,Cab,Cab ride,1578,Cash,Hyderabad,Gym,Need
+EXP0571,2025-07-27,Entertainment,Movies,Event ticket,2254,Cash,Pune,BookMyShow,Want
+EXP0572,2025-07-31,Food,Groceries,Food order,2500,UPI,Chennai,Flipkart,Need
+EXP0573,2025-07-31,Transport,Fuel,Auto ride,1528,UPI,Kolkata,Ola,Need
+EXP0574,2025-07-31,Bills & Utilities,Internet,Internet bill,5041,Debit Card,Jaipur,Apollo Pharmacy,Want
+EXP0575,2025-08-01,Shopping,Clothing,Personal item,14187,Debit Card,Bengaluru,DMart,Want
+EXP0576,2025-08-01,Shopping,Clothing,Home item,15000,Cash,Chennai,Netflix,Want
+EXP0577,2025-08-02,Education,Courses,Book purchase,12000,UPI,Bengaluru,Ola,Want
+EXP0578,2025-08-02,Rent,House Rent,Monthly house rent,20024,UPI,Ahmedabad,Zomato,Need
+EXP0579,2025-08-02,Personal,Gifts,Gift,6917,UPI,Hyderabad,Amazon Prime,Want
+EXP0580,2025-08-03,Personal,Gifts,Gift,7000,Debit Card,Bengaluru,Ola,Want
+EXP0581,2025-08-03,Rent,House Rent,Monthly house rent,14150,UPI,Jaipur,Amazon Prime,Need
+EXP0582,2025-08-03,Education,Stationery,Course fee,12000,UPI,Pune,Amazon,Need
+EXP0583,2025-08-03,Bills & Utilities,Gas,Monthly bill,7731,UPI,Jaipur,Netflix,Need
+EXP0584,2025-08-03,Entertainment,Subscriptions,Subscription,2801,UPI,Hyderabad,IRCTC,Want
+EXP0585,2025-08-04,Shopping,Clothing,Home item,11295,Cash,Lucknow,Amazon Prime,Want
+EXP0586,2025-08-04,Rent,House Rent,Monthly house rent,15069,UPI,Pune,Amazon,Need
+EXP0587,2025-08-05,Food,Snacks,Lunch,1163,UPI,Chennai,Ola,Need
+EXP0588,2025-08-05,Travel,Hotels,Hotel booking,6306,Debit Card,Delhi,Jio,Want
+EXP0589,2025-08-05,Transport,Public Transport,Fuel refill,3378,UPI,Bengaluru,Zomato,Need
+EXP0590,2025-08-05,Bills & Utilities,Internet,Internet bill,1373,UPI,Bengaluru,BookMyShow,Need
+EXP0591,2025-08-05,Bills & Utilities,Gas,Mobile recharge,791,Credit Card,Ahmedabad,Medical Store,Need
+EXP0592,2025-08-05,Health,Medicine,Medicine purchase,2400,Cash,Bengaluru,Swiggy,Need
+EXP0593,2025-08-06,Entertainment,Games,Movie ticket,1672,Net Banking,Mumbai,Amazon Prime,Want
+EXP0594,2025-08-06,Food,Groceries,Food order,1739,UPI,Jaipur,Jio,Need
+EXP0595,2025-08-06,Shopping,Home,Clothes,2608,Cash,Pune,Netflix,Want
+EXP0596,2025-08-06,Personal,Salon,Salon,3794,Debit Card,Mumbai,Swiggy,Want
+EXP0597,2025-08-06,Transport,Auto/Rickshaw,Bus ticket,3905,UPI,Lucknow,Uber,Need
+EXP0598,2025-08-08,Personal,Miscellaneous,Personal expense,2737,Wallet,Lucknow,Swiggy,Want
+EXP0599,2025-08-08,Shopping,Clothing,Clothes,5908,Credit Card,Lucknow,Ola,Want
+EXP0600,2025-08-08,Rent,House Rent,Monthly house rent,14052,Net Banking,Jaipur,Swiggy,Need
+EXP0601,2025-08-08,Food,Food Delivery,Food order,1347,UPI,Hyderabad,DMart,Want
+EXP0602,2025-08-08,Transport,Auto/Rickshaw,Bus ticket,1010,Debit Card,Hyderabad,Fuel Station,Need
+EXP0603,2025-08-08,Rent,House Rent,Monthly house rent,11159,Net Banking,Hyderabad,Apollo Pharmacy,Need
+EXP0604,2025-08-08,Health,Healthcare,Health expense,8929,Net Banking,Kolkata,BookMyShow,Want
+EXP0605,2025-08-09,Transport,Fuel,Cab ride,4321,Credit Card,Ahmedabad,Apollo Pharmacy,Need
+EXP0606,2025-08-10,Personal,Miscellaneous,Gift,3523,Credit Card,Ahmedabad,Flipkart,Want
+EXP0607,2025-08-10,Travel,Flights,Travel ticket,30000,UPI,Ahmedabad,Electricity Board,Want
+EXP0608,2025-08-10,Bills & Utilities,Internet,Utility payment,2922,UPI,Delhi,Swiggy,Need
+EXP0609,2025-08-11,Travel,Flights,Train ticket,30000,UPI,Hyderabad,BookMyShow,Want
+EXP0610,2025-08-11,Food,Food Delivery,Monthly groceries,481,Cash,Jaipur,BookMyShow,Need
+EXP0611,2025-08-11,Rent,House Rent,Monthly house rent,9506,UPI,Bengaluru,Blinkit,Need
+EXP0612,2025-08-11,Transport,Fuel,Fuel refill,2808,UPI,Kolkata,Netflix,Need
+EXP0613,2025-08-11,Bills & Utilities,Water,Monthly bill,6740,UPI,Chennai,Amazon Prime,Need
+EXP0614,2025-08-12,Rent,House Rent,Monthly house rent,16071,UPI,Hyderabad,Netflix,Need
+EXP0615,2025-08-12,Transport,Cab,Fuel refill,2318,Credit Card,Jaipur,Flipkart,Need
+EXP0616,2025-08-12,Food,Groceries,Monthly groceries,923,Credit Card,Chennai,DMart,Want
+EXP0617,2025-08-12,Shopping,Clothing,Home item,8648,UPI,Jaipur,Uber,Want
+EXP0618,2025-08-13,Food,Food Delivery,Dinner,2500,Credit Card,Hyderabad,Flipkart,Need
+EXP0619,2025-08-13,Transport,Public Transport,Auto ride,2461,UPI,Ahmedabad,Uber,Need
+EXP0620,2025-08-13,Health,Gym,Gym fee,2114,Cash,Mumbai,Fuel Station,Need
+EXP0621,2025-08-13,Shopping,Home,Clothes,8524,Debit Card,Kolkata,Flipkart,Want
+EXP0622,2025-08-14,Food,Snacks,Monthly groceries,909,Debit Card,Kolkata,Flipkart,Need
+EXP0623,2025-08-14,Rent,House Rent,Monthly house rent,13573,Net Banking,Lucknow,Ola,Want
+EXP0624,2025-08-14,Transport,Public Transport,Auto ride,1655,Cash,Bengaluru,Reliance Trends,Need
+EXP0625,2025-08-15,Rent,House Rent,Monthly house rent,12358,Net Banking,Chennai,Local Store,Need
+EXP0626,2025-08-15,Transport,Public Transport,Fuel refill,1986,Credit Card,Ahmedabad,Reliance Trends,Need
+EXP0627,2025-08-15,Personal,Salon,Personal expense,3839,UPI,Jaipur,Amazon Prime,Want
+EXP0628,2025-08-15,Shopping,Electronics,Clothes,6836,UPI,Mumbai,Blinkit,Want
+EXP0629,2025-08-15,Health,Healthcare,Doctor consultation,10000,Cash,Mumbai,Ola,Need
+EXP0630,2025-08-16,Personal,Salon,Salon,1391,Credit Card,Pune,IRCTC,Want
+EXP0631,2025-08-16,Food,Restaurants,Food order,2443,Credit Card,Pune,Netflix,Need
+EXP0632,2025-08-17,Shopping,Home,Personal item,1591,Credit Card,Hyderabad,Swiggy,Want
+EXP0633,2025-08-17,Shopping,Home,Clothes,2051,Credit Card,Mumbai,DMart,Want
+EXP0634,2025-08-17,Food,Groceries,Lunch,2129,Wallet,Chennai,IRCTC,Need
+EXP0635,2025-08-17,Shopping,Home,Online purchase,12242,Credit Card,Mumbai,Blinkit,Want
+EXP0636,2025-08-17,Health,Doctor,Medicine purchase,3185,UPI,Kolkata,Gym,Need
+EXP0637,2025-08-18,Transport,Public Transport,Fuel refill,2557,UPI,Chennai,BigBasket,Need
+EXP0638,2025-08-18,Shopping,Home,Home item,15000,Cash,Kolkata,Fuel Station,Want
+EXP0639,2025-08-19,Shopping,Electronics,Personal item,15000,UPI,Mumbai,Uber,Want
+EXP0640,2025-08-19,Shopping,Clothing,Clothes,11725,Credit Card,Kolkata,BigBasket,Want
+EXP0641,2025-08-19,Shopping,Electronics,Online purchase,6941,UPI,Ahmedabad,Flipkart,Want
+EXP0642,2025-08-19,Bills & Utilities,Gas,Internet bill,4686,UPI,Chennai,Amazon Prime,Need
+EXP0643,2025-08-19,Entertainment,Movies,Subscription,3508,UPI,Pune,BigBasket,Want
+EXP0644,2025-08-21,Shopping,Home,Home item,4237,Net Banking,Lucknow,Blinkit,Want
+EXP0645,2025-08-21,Shopping,Personal Care,Online purchase,15000,UPI,Chennai,Fuel Station,Want
+EXP0646,2025-08-21,Food,Restaurants,Food order,816,Credit Card,Delhi,Uber,Need
+EXP0647,2025-08-21,Personal,Gifts,Personal expense,4002,UPI,Chennai,BookMyShow,Want
+EXP0648,2025-08-21,Shopping,Personal Care,Personal item,15000,Cash,Delhi,Netflix,Want
+EXP0649,2025-08-21,Travel,Hotels,Travel ticket,21180,Credit Card,Pune,Jio,Want
+EXP0650,2025-08-21,Food,Food Delivery,Dinner,792,Debit Card,Hyderabad,Uber,Want
+EXP0651,2025-08-21,Shopping,Personal Care,Clothes,11629,Cash,Ahmedabad,IRCTC,Want
+EXP0652,2025-08-22,Shopping,Electronics,Online purchase,8924,Credit Card,Lucknow,Gym,Want
+EXP0653,2025-08-23,Food,Food Delivery,Food order,1351,UPI,Ahmedabad,Reliance Trends,Need
+EXP0654,2025-08-23,Health,Gym,Health expense,5325,Net Banking,Chennai,Amazon Prime,Need
+EXP0655,2025-08-24,Entertainment,Games,Event ticket,5000,Cash,Pune,Fuel Station,Want
+EXP0656,2025-08-24,Transport,Auto/Rickshaw,Bus ticket,4427,UPI,Hyderabad,Zomato,Need
+EXP0657,2025-08-24,Shopping,Home,Personal item,15000,Net Banking,Lucknow,Jio,Want
+EXP0658,2025-08-25,Shopping,Electronics,Home item,15000,UPI,Jaipur,Uber,Want
+EXP0659,2025-08-25,Personal,Salon,Gift,5710,Credit Card,Mumbai,Uber,Want
+EXP0660,2025-08-25,Health,Medicine,Doctor consultation,5035,Credit Card,Bengaluru,Uber,Need
+EXP0661,2025-08-26,Transport,Fuel,Fuel refill,1014,UPI,Jaipur,Zomato,Need
+EXP0662,2025-08-26,Bills & Utilities,Water,Mobile recharge,2968,UPI,Ahmedabad,Flipkart,Need
+EXP0663,2025-08-26,Shopping,Clothing,Personal item,4348,Net Banking,Hyderabad,Netflix,Want
+EXP0664,2025-08-27,Education,Courses,Online course,2332,Cash,Ahmedabad,Gym,Need
+EXP0665,2025-08-27,Rent,House Rent,Monthly house rent,15770,UPI,Mumbai,Zomato,Want
+EXP0666,2025-08-27,Entertainment,Subscriptions,Subscription,5000,Debit Card,Delhi,Amazon Prime,Want
+EXP0667,2025-08-27,Food,Groceries,Food order,1448,UPI,Jaipur,Gym,Need
+EXP0668,2025-08-27,Transport,Public Transport,Fuel refill,2049,Cash,Ahmedabad,Blinkit,Need
+EXP0669,2025-08-28,Personal,Miscellaneous,Personal expense,2289,UPI,Bengaluru,Reliance Trends,Want
+EXP0670,2025-08-28,Shopping,Electronics,Online purchase,7091,UPI,Bengaluru,Apollo Pharmacy,Want
+EXP0671,2025-08-28,Bills & Utilities,Electricity,Mobile recharge,5171,UPI,Chennai,Flipkart,Need
+EXP0672,2025-08-29,Education,Stationery,Stationery,2228,UPI,Bengaluru,Ola,Want
+EXP0673,2025-08-30,Bills & Utilities,Water,Monthly bill,4157,Net Banking,Hyderabad,Gym,Need
+EXP0674,2025-08-30,Food,Groceries,Food order,695,UPI,Mumbai,Netflix,Need
+EXP0675,2025-08-30,Bills & Utilities,Gas,Utility payment,3198,UPI,Delhi,IRCTC,Need
+EXP0676,2025-08-30,Rent,House Rent,Monthly house rent,8934,UPI,Bengaluru,Local Store,Want
+EXP0677,2025-08-31,Travel,Local Travel,Train ticket,3433,Cash,Pune,Swiggy,Want
+EXP0678,2025-08-31,Education,Online Learning,Book purchase,6371,UPI,Kolkata,Amazon Prime,Want
+EXP0679,2025-09-01,Entertainment,Subscriptions,Movie ticket,2723,UPI,Ahmedabad,Ola,Want
+EXP0680,2025-09-03,Rent,House Rent,Monthly house rent,23614,Net Banking,Delhi,Local Store,Need
+EXP0681,2025-09-03,Transport,Public Transport,Cab ride,1443,UPI,Kolkata,Jio,Need
+EXP0682,2025-09-04,Shopping,Personal Care,Clothes,7844,Debit Card,Delhi,BigBasket,Want
+EXP0683,2025-09-04,Transport,Auto/Rickshaw,Bus ticket,3145,Cash,Jaipur,Zomato,Need
+EXP0684,2025-09-04,Transport,Fuel,Bus ticket,404,UPI,Ahmedabad,Airtel,Want
+EXP0685,2025-09-04,Education,Online Learning,Stationery,4542,UPI,Chennai,Amazon Prime,Need
+EXP0686,2025-09-04,Shopping,Personal Care,Home item,15000,UPI,Ahmedabad,Electricity Board,Want
+EXP0687,2025-09-04,Shopping,Home,Clothes,5618,Debit Card,Kolkata,Medical Store,Want
+EXP0688,2025-09-06,Entertainment,Events,Event ticket,1795,Debit Card,Chennai,Netflix,Want
+EXP0689,2025-09-06,Bills & Utilities,Water,Utility payment,5740,Debit Card,Lucknow,Ola,Need
+EXP0690,2025-09-06,Personal,Salon,Gift,1881,Net Banking,Pune,Zomato,Want
+EXP0691,2025-09-06,Transport,Public Transport,Cab ride,4431,UPI,Ahmedabad,Electricity Board,Need
+EXP0692,2025-09-07,Personal,Gifts,Gift,4277,UPI,Pune,Amazon,Want
+EXP0693,2025-09-07,Bills & Utilities,Water,Utility payment,5467,Cash,Kolkata,Airtel,Want
+EXP0694,2025-09-07,Food,Food Delivery,Dinner,576,UPI,Jaipur,Swiggy,Need
+EXP0695,2025-09-08,Entertainment,Subscriptions,Game purchase,3988,Cash,Ahmedabad,Blinkit,Want
+EXP0696,2025-09-08,Entertainment,Games,Movie ticket,4523,Net Banking,Lucknow,Netflix,Want
+EXP0697,2025-09-09,Food,Restaurants,Snacks,821,Cash,Bengaluru,Swiggy,Need
+EXP0698,2025-09-09,Bills & Utilities,Electricity,Utility payment,5474,Credit Card,Jaipur,Blinkit,Need
+EXP0699,2025-09-09,Bills & Utilities,Mobile,Internet bill,2803,UPI,Jaipur,Zomato,Need
+EXP0700,2025-09-09,Entertainment,Subscriptions,Event ticket,2594,Debit Card,Kolkata,IRCTC,Want
+EXP0701,2025-09-09,Bills & Utilities,Internet,Monthly bill,4012,Debit Card,Lucknow,Uber,Need
+EXP0702,2025-09-09,Bills & Utilities,Gas,Utility payment,2688,UPI,Jaipur,Gym,Need
+EXP0703,2025-09-09,Transport,Cab,Auto ride,2398,UPI,Chennai,Apollo Pharmacy,Need
+EXP0704,2025-09-10,Transport,Fuel,Cab ride,5000,Debit Card,Chennai,Ola,Need
+EXP0705,2025-09-10,Health,Doctor,Gym fee,906,Debit Card,Bengaluru,Amazon,Need
+EXP0706,2025-09-10,Personal,Salon,Miscellaneous,7000,UPI,Hyderabad,Reliance Trends,Want
+EXP0707,2025-09-10,Entertainment,Games,Game purchase,666,Net Banking,Hyderabad,Amazon,Want
+EXP0708,2025-09-10,Bills & Utilities,Water,Monthly bill,3650,UPI,Delhi,Uber,Need
+EXP0709,2025-09-10,Travel,Hotels,Local travel,7766,UPI,Lucknow,Medical Store,Want
+EXP0710,2025-09-11,Education,Online Learning,Stationery,4838,Net Banking,Delhi,Blinkit,Want
+EXP0711,2025-09-11,Shopping,Personal Care,Clothes,15000,Credit Card,Jaipur,Zomato,Want
+EXP0712,2025-09-11,Shopping,Home,Home item,15000,UPI,Delhi,Gym,Want
+EXP0713,2025-09-12,Bills & Utilities,Electricity,Internet bill,3992,Cash,Pune,Swiggy,Need
+EXP0714,2025-09-12,Food,Food Delivery,Dinner,596,Debit Card,Delhi,DMart,Need
+EXP0715,2025-09-12,Transport,Fuel,Auto ride,3001,UPI,Kolkata,Zomato,Need
+EXP0716,2025-09-13,Shopping,Clothing,Clothes,10461,Debit Card,Hyderabad,Reliance Trends,Want
+EXP0717,2025-09-13,Bills & Utilities,Electricity,Internet bill,5348,UPI,Delhi,Uber,Need
+EXP0718,2025-09-14,Shopping,Electronics,Online purchase,2365,UPI,Bengaluru,Ola,Want
+EXP0719,2025-09-14,Bills & Utilities,Mobile,Internet bill,4009,Wallet,Kolkata,Gym,Need
+EXP0720,2025-09-14,Transport,Public Transport,Cab ride,1156,Cash,Bengaluru,Local Store,Need
+EXP0721,2025-09-15,Shopping,Clothing,Online purchase,6458,Cash,Kolkata,Ola,Want
+EXP0722,2025-09-15,Transport,Public Transport,Fuel refill,5000,UPI,Lucknow,Electricity Board,Need
+EXP0723,2025-09-16,Education,Online Learning,Book purchase,5009,Cash,Ahmedabad,DMart,Need
+EXP0724,2025-09-16,Food,Groceries,Monthly groceries,2500,UPI,Hyderabad,DMart,Want
+EXP0725,2025-09-16,Transport,Fuel,Fuel refill,1199,Cash,Lucknow,Ola,Need
+EXP0726,2025-09-16,Bills & Utilities,Internet,Utility payment,4498,UPI,Hyderabad,Gym,Need
+EXP0727,2025-09-16,Health,Gym,Medicine purchase,1414,Debit Card,Delhi,IRCTC,Need
+EXP0728,2025-09-17,Rent,House Rent,Monthly house rent,25000,UPI,Kolkata,Gym,Need
+EXP0729,2025-09-17,Personal,Miscellaneous,Salon,2805,UPI,Mumbai,Flipkart,Want
+EXP0730,2025-09-18,Personal,Salon,Gift,1986,UPI,Hyderabad,BigBasket,Want
+EXP0731,2025-09-19,Shopping,Personal Care,Clothes,9539,UPI,Kolkata,DMart,Want
+EXP0732,2025-09-19,Food,Restaurants,Dinner,1661,Credit Card,Delhi,Flipkart,Need
+EXP0733,2025-09-20,Personal,Gifts,Gift,3594,UPI,Kolkata,Swiggy,Want
+EXP0734,2025-09-21,Shopping,Clothing,Online purchase,9390,Debit Card,Lucknow,Flipkart,Want
+EXP0735,2025-09-21,Education,Stationery,Book purchase,2868,Credit Card,Delhi,BookMyShow,Need
+EXP0736,2025-09-21,Transport,Public Transport,Auto ride,1952,UPI,Chennai,Amazon Prime,Need
+EXP0737,2025-09-21,Bills & Utilities,Water,Monthly bill,3667,Cash,Chennai,Electricity Board,Want
+EXP0738,2025-09-21,Personal,Salon,Gift,4090,Credit Card,Lucknow,Local Store,Want
+EXP0739,2025-09-21,Food,Snacks,Food order,718,Cash,Pune,IRCTC,Need
+EXP0740,2025-09-22,Shopping,Electronics,Home item,4504,Debit Card,Mumbai,Blinkit,Want
+EXP0741,2025-09-22,Education,Online Learning,Stationery,4508,UPI,Hyderabad,Swiggy,Want
+EXP0742,2025-09-24,Shopping,Electronics,Online purchase,8797,Credit Card,Delhi,Amazon Prime,Want
+EXP0743,2025-09-24,Food,Groceries,Food order,683,UPI,Delhi,IRCTC,Want
+EXP0744,2025-09-25,Health,Healthcare,Medicine purchase,3761,UPI,Pune,Electricity Board,Need
+EXP0745,2025-09-25,Bills & Utilities,Water,Mobile recharge,5248,Credit Card,Kolkata,Uber,Need
+EXP0746,2025-09-25,Entertainment,Movies,Game purchase,2447,UPI,Kolkata,Reliance Trends,Want
+EXP0747,2025-09-25,Transport,Public Transport,Fuel refill,2591,UPI,Jaipur,BookMyShow,Need
+EXP0748,2025-09-25,Rent,House Rent,Monthly house rent,11216,UPI,Mumbai,BookMyShow,Need
+EXP0749,2025-09-26,Entertainment,Events,Game purchase,4029,Net Banking,Pune,Uber,Want
+EXP0750,2025-09-27,Food,Food Delivery,Lunch,1898,Net Banking,Bengaluru,Flipkart,Need
+EXP0751,2025-09-28,Travel,Flights,Train ticket,30000,UPI,Pune,Medical Store,Want
+EXP0752,2025-09-28,Food,Snacks,Snacks,1380,Debit Card,Chennai,Electricity Board,Need
+EXP0753,2025-09-28,Shopping,Electronics,Home item,5282,Net Banking,Ahmedabad,Flipkart,Want
+EXP0754,2025-09-28,Transport,Auto/Rickshaw,Fuel refill,2065,Credit Card,Pune,Electricity Board,Need
+EXP0755,2025-09-29,Food,Food Delivery,Snacks,1003,UPI,Pune,Jio,Need
+EXP0756,2025-09-29,Food,Groceries,Snacks,924,UPI,Lucknow,Electricity Board,Need
+EXP0757,2025-09-30,Shopping,Personal Care,Home item,15000,Credit Card,Delhi,BigBasket,Want
+EXP0758,2025-09-30,Transport,Cab,Bus ticket,1095,Debit Card,Delhi,Gym,Need
+EXP0759,2025-09-30,Education,Courses,Course fee,3453,Credit Card,Ahmedabad,Flipkart,Want
+EXP0760,2025-09-30,Food,Snacks,Dinner,1042,UPI,Delhi,Amazon Prime,Need
+EXP0761,2025-10-01,Entertainment,Games,Game purchase,5000,UPI,Jaipur,BookMyShow,Want
+EXP0762,2025-10-01,Travel,Hotels,Local travel,8529,Net Banking,Jaipur,Amazon Prime,Want
+EXP0763,2025-10-02,Shopping,Electronics,Online purchase,5937,UPI,Bengaluru,Electricity Board,Want
+EXP0764,2025-10-02,Education,Courses,Course fee,4726,Cash,Mumbai,Fuel Station,Need
+EXP0765,2025-10-02,Rent,House Rent,Monthly house rent,25000,UPI,Pune,DMart,Want
+EXP0766,2025-10-04,Transport,Fuel,Bus ticket,3107,UPI,Jaipur,BookMyShow,Need
+EXP0767,2025-10-04,Personal,Salon,Salon,3986,UPI,Kolkata,Flipkart,Want
+EXP0768,2025-10-04,Entertainment,Events,Movie ticket,2683,Wallet,Jaipur,Electricity Board,Want
+EXP0769,2025-10-04,Food,Snacks,Food order,650,Cash,Pune,Jio,Need
+EXP0770,2025-10-04,Food,Food Delivery,Food order,762,UPI,Ahmedabad,Reliance Trends,Want
+EXP0771,2025-10-04,Bills & Utilities,Internet,Mobile recharge,4063,Debit Card,Hyderabad,Electricity Board,Want
+EXP0772,2025-10-05,Bills & Utilities,Electricity,Internet bill,5957,Credit Card,Delhi,BookMyShow,Need
+EXP0773,2025-10-06,Education,Courses,Book purchase,12000,UPI,Ahmedabad,BigBasket,Want
+EXP0774,2025-10-06,Transport,Fuel,Auto ride,1869,UPI,Pune,Medical Store,Need
+EXP0775,2025-10-07,Shopping,Personal Care,Clothes,14074,Credit Card,Kolkata,DMart,Want
+EXP0776,2025-10-07,Bills & Utilities,Gas,Utility payment,1817,Cash,Ahmedabad,Zomato,Need
+EXP0777,2025-10-07,Health,Medicine,Gym fee,4355,Debit Card,Lucknow,Apollo Pharmacy,Need
+EXP0778,2025-10-07,Food,Snacks,Food order,1868,Credit Card,Pune,Swiggy,Need
+EXP0779,2025-10-07,Education,Books,Course fee,2406,UPI,Mumbai,Medical Store,Need
+EXP0780,2025-10-08,Transport,Cab,Auto ride,4189,Cash,Bengaluru,IRCTC,Need
+EXP0781,2025-10-08,Food,Groceries,Monthly groceries,1210,UPI,Jaipur,DMart,Need
+EXP0782,2025-10-09,Food,Snacks,Snacks,385,Cash,Chennai,DMart,Need
+EXP0783,2025-10-09,Food,Restaurants,Monthly groceries,1446,Debit Card,Lucknow,Gym,Want
+EXP0784,2025-10-09,Transport,Public Transport,Bus ticket,5000,Credit Card,Bengaluru,Amazon Prime,Need
+EXP0785,2025-10-10,Shopping,Personal Care,Home item,5888,Cash,Ahmedabad,Local Store,Want
+EXP0786,2025-10-10,Transport,Auto/Rickshaw,Cab ride,1585,Cash,Chennai,Amazon Prime,Want
+EXP0787,2025-10-10,Food,Groceries,Lunch,686,Cash,Kolkata,Reliance Trends,Need
+EXP0788,2025-10-10,Transport,Auto/Rickshaw,Fuel refill,533,Cash,Delhi,Swiggy,Need
+EXP0789,2025-10-10,Food,Restaurants,Food order,1148,UPI,Delhi,Netflix,Want
+EXP0790,2025-10-11,Rent,House Rent,Monthly house rent,18605,UPI,Mumbai,Ola,Need
+EXP0791,2025-10-11,Entertainment,Events,Game purchase,1611,Cash,Bengaluru,Electricity Board,Want
+EXP0792,2025-10-11,Transport,Cab,Bus ticket,2556,UPI,Mumbai,Apollo Pharmacy,Need
+EXP0793,2025-10-11,Food,Snacks,Dinner,1395,UPI,Mumbai,Airtel,Need
+EXP0794,2025-10-12,Shopping,Electronics,Home item,15000,Credit Card,Chennai,BookMyShow,Want
+EXP0795,2025-10-12,Bills & Utilities,Gas,Internet bill,3180,Cash,Kolkata,BigBasket,Need
+EXP0796,2025-10-12,Travel,Local Travel,Local travel,9351,Credit Card,Delhi,IRCTC,Want
+EXP0797,2025-10-13,Food,Groceries,Dinner,924,UPI,Bengaluru,Uber,Need
+EXP0798,2025-10-13,Bills & Utilities,Internet,Utility payment,7342,Debit Card,Hyderabad,DMart,Need
+EXP0799,2025-10-13,Food,Snacks,Food order,1282,UPI,Delhi,Electricity Board,Need
+EXP0800,2025-10-13,Food,Food Delivery,Food order,1035,UPI,Delhi,IRCTC,Need
+EXP0801,2025-10-13,Food,Restaurants,Snacks,570,UPI,Bengaluru,Electricity Board,Need
+EXP0802,2025-10-15,Food,Restaurants,Food order,2500,Credit Card,Lucknow,Blinkit,Need
+EXP0803,2025-10-15,Entertainment,Subscriptions,Event ticket,1773,Cash,Kolkata,Electricity Board,Want
+EXP0804,2025-10-15,Transport,Public Transport,Cab ride,4379,UPI,Bengaluru,Reliance Trends,Need
+EXP0805,2025-10-16,Entertainment,Subscriptions,Subscription,4226,UPI,Delhi,Uber,Want
+EXP0806,2025-10-16,Shopping,Clothing,Clothes,2073,Cash,Chennai,Airtel,Want
+EXP0807,2025-10-16,Food,Groceries,Monthly groceries,2500,Credit Card,Hyderabad,Amazon Prime,Need
+EXP0808,2025-10-16,Travel,Train/Bus,Hotel booking,12232,Credit Card,Pune,BigBasket,Want
+EXP0809,2025-10-16,Transport,Public Transport,Cab ride,4181,UPI,Jaipur,Netflix,Need
+EXP0810,2025-10-17,Shopping,Home,Personal item,1455,Credit Card,Kolkata,Fuel Station,Want
+EXP0811,2025-10-17,Travel,Train/Bus,Local travel,9584,UPI,Kolkata,Uber,Want
+EXP0812,2025-10-19,Transport,Cab,Bus ticket,5000,Debit Card,Lucknow,BookMyShow,Need
+EXP0813,2025-10-19,Shopping,Personal Care,Clothes,15000,Debit Card,Chennai,Blinkit,Want
+EXP0814,2025-10-20,Food,Groceries,Lunch,1663,Debit Card,Ahmedabad,Local Store,Need
+EXP0815,2025-10-20,Education,Courses,Stationery,12000,Credit Card,Chennai,Netflix,Need
+EXP0816,2025-10-21,Transport,Fuel,Fuel refill,3458,Cash,Delhi,Reliance Trends,Need
+EXP0817,2025-10-21,Food,Food Delivery,Snacks,552,UPI,Delhi,BigBasket,Need
+EXP0818,2025-10-21,Rent,House Rent,Monthly house rent,8000,Net Banking,Mumbai,Medical Store,Want
+EXP0819,2025-10-21,Food,Restaurants,Food order,1168,UPI,Delhi,Amazon Prime,Need
+EXP0820,2025-10-22,Personal,Miscellaneous,Gift,7000,Cash,Pune,Electricity Board,Want
+EXP0821,2025-10-23,Shopping,Personal Care,Clothes,12232,Debit Card,Delhi,Zomato,Want
+EXP0822,2025-10-25,Shopping,Home,Home item,15000,UPI,Delhi,Airtel,Want
+EXP0823,2025-10-26,Personal,Salon,Salon,964,UPI,Lucknow,Gym,Want
+EXP0824,2025-10-27,Transport,Public Transport,Bus ticket,2667,UPI,Mumbai,BookMyShow,Need
+EXP0825,2025-10-27,Food,Snacks,Monthly groceries,983,UPI,Lucknow,Airtel,Need
+EXP0826,2025-10-28,Travel,Train/Bus,Train ticket,22580,UPI,Chennai,DMart,Want
+EXP0827,2025-10-28,Education,Courses,Online course,7519,UPI,Delhi,Netflix,Need
+EXP0828,2025-10-28,Shopping,Electronics,Clothes,4576,Debit Card,Lucknow,IRCTC,Want
+EXP0829,2025-10-29,Health,Healthcare,Medicine purchase,10000,Debit Card,Hyderabad,Electricity Board,Need
+EXP0830,2025-10-29,Personal,Miscellaneous,Miscellaneous,1188,Credit Card,Jaipur,Apollo Pharmacy,Want
+EXP0831,2025-10-30,Food,Groceries,Dinner,2500,Debit Card,Bengaluru,Uber,Need
+EXP0832,2025-10-30,Education,Courses,Online course,9350,UPI,Lucknow,Netflix,Need
+EXP0833,2025-10-30,Food,Snacks,Snacks,1240,Credit Card,Jaipur,Airtel,Want
+EXP0834,2025-10-30,Entertainment,Games,Game purchase,4582,Wallet,Pune,IRCTC,Want
+EXP0835,2025-10-31,Food,Restaurants,Monthly groceries,2500,Debit Card,Mumbai,Reliance Trends,Want
+EXP0836,2025-10-31,Food,Restaurants,Monthly groceries,927,UPI,Mumbai,IRCTC,Need
+EXP0837,2025-10-31,Entertainment,Games,Event ticket,1710,UPI,Hyderabad,Local Store,Want
+EXP0838,2025-10-31,Shopping,Personal Care,Personal item,11886,Wallet,Bengaluru,Swiggy,Want
+EXP0839,2025-10-31,Shopping,Home,Personal item,10093,UPI,Pune,Blinkit,Want
+EXP0840,2025-11-01,Bills & Utilities,Electricity,Internet bill,6311,Wallet,Delhi,Local Store,Need
+EXP0841,2025-11-01,Food,Snacks,Monthly groceries,1793,Credit Card,Ahmedabad,Flipkart,Need
+EXP0842,2025-11-02,Travel,Flights,Train ticket,20642,Credit Card,Delhi,Amazon Prime,Want
+EXP0843,2025-11-02,Bills & Utilities,Mobile,Utility payment,3503,Credit Card,Delhi,Apollo Pharmacy,Need
+EXP0844,2025-11-02,Entertainment,Movies,Movie ticket,1566,Wallet,Lucknow,Amazon,Want
+EXP0845,2025-11-03,Food,Restaurants,Food order,2500,Net Banking,Hyderabad,Swiggy,Need
+EXP0846,2025-11-03,Education,Stationery,Stationery,6713,Cash,Bengaluru,BookMyShow,Need
+EXP0847,2025-11-04,Bills & Utilities,Electricity,Mobile recharge,760,UPI,Bengaluru,Amazon,Need
+EXP0848,2025-11-04,Food,Groceries,Dinner,1466,Debit Card,Lucknow,BookMyShow,Want
+EXP0849,2025-11-04,Health,Healthcare,Doctor consultation,10000,Cash,Mumbai,Zomato,Need
+EXP0850,2025-11-05,Rent,House Rent,Monthly house rent,25000,UPI,Pune,DMart,Need
+EXP0851,2025-11-06,Personal,Salon,Salon,5188,UPI,Pune,Netflix,Want
+EXP0852,2025-11-06,Travel,Flights,Local travel,25956,Debit Card,Chennai,Blinkit,Want
+EXP0853,2025-11-07,Personal,Miscellaneous,Salon,3692,UPI,Bengaluru,Reliance Trends,Want
+EXP0854,2025-11-07,Bills & Utilities,Water,Internet bill,3499,UPI,Hyderabad,IRCTC,Need
+EXP0855,2025-11-07,Transport,Auto/Rickshaw,Cab ride,1447,UPI,Jaipur,Zomato,Need
+EXP0856,2025-11-08,Food,Restaurants,Dinner,628,Debit Card,Jaipur,Zomato,Need
+EXP0857,2025-11-08,Transport,Cab,Auto ride,2765,UPI,Bengaluru,Uber,Need
+EXP0858,2025-11-08,Health,Doctor,Health expense,10000,UPI,Delhi,Local Store,Want
+EXP0859,2025-11-09,Transport,Public Transport,Bus ticket,2502,UPI,Chennai,Swiggy,Want
+EXP0860,2025-11-09,Travel,Hotels,Hotel booking,16854,Debit Card,Jaipur,Medical Store,Want
+EXP0861,2025-11-10,Bills & Utilities,Electricity,Monthly bill,3546,Cash,Mumbai,Amazon Prime,Need
+EXP0862,2025-11-10,Entertainment,Movies,Subscription,1052,Cash,Jaipur,Local Store,Want
+EXP0863,2025-11-10,Shopping,Home,Home item,10568,Credit Card,Kolkata,Amazon Prime,Want
+EXP0864,2025-11-11,Shopping,Home,Home item,11478,Debit Card,Pune,Zomato,Want
+EXP0865,2025-11-11,Transport,Cab,Fuel refill,2398,Debit Card,Lucknow,Fuel Station,Need
+EXP0866,2025-11-11,Rent,House Rent,Monthly house rent,13980,UPI,Mumbai,Ola,Need
+EXP0867,2025-11-12,Shopping,Electronics,Personal item,10329,Cash,Hyderabad,Fuel Station,Want
+EXP0868,2025-11-12,Transport,Fuel,Auto ride,2091,Debit Card,Pune,Jio,Need
+EXP0869,2025-11-12,Education,Courses,Course fee,5266,Cash,Delhi,Amazon Prime,Need
+EXP0870,2025-11-13,Shopping,Clothing,Home item,10252,Credit Card,Hyderabad,Apollo Pharmacy,Want
+EXP0871,2025-11-13,Entertainment,Events,Subscription,1214,UPI,Chennai,Amazon,Want
+EXP0872,2025-11-13,Travel,Train/Bus,Travel ticket,21536,UPI,Kolkata,Jio,Want
+EXP0873,2025-11-13,Shopping,Personal Care,Home item,9246,UPI,Delhi,Netflix,Want
+EXP0874,2025-11-14,Food,Food Delivery,Snacks,726,Wallet,Delhi,IRCTC,Need
+EXP0875,2025-11-14,Food,Snacks,Snacks,427,UPI,Hyderabad,Jio,Need
+EXP0876,2025-11-14,Rent,House Rent,Monthly house rent,25000,UPI,Delhi,Flipkart,Want
+EXP0877,2025-11-14,Education,Books,Online course,11295,Debit Card,Chennai,BookMyShow,Need
+EXP0878,2025-11-15,Personal,Gifts,Gift,5103,Net Banking,Hyderabad,Amazon Prime,Want
+EXP0879,2025-11-15,Personal,Gifts,Personal expense,4101,UPI,Hyderabad,BigBasket,Want
+EXP0880,2025-11-16,Shopping,Home,Online purchase,4058,Wallet,Pune,Airtel,Want
+EXP0881,2025-11-16,Health,Medicine,Doctor consultation,9102,UPI,Chennai,Local Store,Want
+EXP0882,2025-11-16,Travel,Train/Bus,Travel ticket,8502,Cash,Ahmedabad,Gym,Want
+EXP0883,2025-11-17,Health,Healthcare,Medicine purchase,4666,Debit Card,Pune,Medical Store,Need
+EXP0884,2025-11-17,Bills & Utilities,Water,Monthly bill,2634,UPI,Jaipur,Ola,Need
+EXP0885,2025-11-18,Bills & Utilities,Electricity,Mobile recharge,5379,Cash,Ahmedabad,Medical Store,Want
+EXP0886,2025-11-18,Personal,Miscellaneous,Salon,7000,UPI,Bengaluru,Amazon Prime,Want
+EXP0887,2025-11-19,Personal,Miscellaneous,Miscellaneous,2915,Debit Card,Chennai,DMart,Want
+EXP0888,2025-11-19,Transport,Fuel,Auto ride,1231,UPI,Kolkata,Reliance Trends,Need
+EXP0889,2025-11-19,Health,Gym,Medicine purchase,4246,Cash,Jaipur,Flipkart,Need
+EXP0890,2025-11-20,Transport,Fuel,Cab ride,5000,Credit Card,Delhi,Swiggy,Need
+EXP0891,2025-11-20,Entertainment,Movies,Subscription,4750,Net Banking,Hyderabad,Ola,Want
+EXP0892,2025-11-21,Travel,Hotels,Travel ticket,11102,UPI,Lucknow,Local Store,Want
+EXP0893,2025-11-21,Transport,Auto/Rickshaw,Cab ride,1952,Debit Card,Hyderabad,Reliance Trends,Want
+EXP0894,2025-11-21,Health,Healthcare,Gym fee,5946,Net Banking,Delhi,Netflix,Need
+EXP0895,2025-11-22,Food,Snacks,Food order,743,UPI,Mumbai,Airtel,Want
+EXP0896,2025-11-22,Food,Groceries,Snacks,683,Wallet,Bengaluru,Amazon Prime,Need
+EXP0897,2025-11-22,Personal,Gifts,Salon,4898,UPI,Bengaluru,Blinkit,Want
+EXP0898,2025-11-22,Health,Gym,Doctor consultation,10000,UPI,Jaipur,Airtel,Want
+EXP0899,2025-11-23,Entertainment,Events,Event ticket,5000,UPI,Bengaluru,Ola,Want
+EXP0900,2025-11-23,Rent,House Rent,Monthly house rent,12253,UPI,Ahmedabad,Flipkart,Need
+EXP0901,2025-11-23,Bills & Utilities,Mobile,Utility payment,1439,Debit Card,Pune,Electricity Board,Need
+EXP0902,2025-11-24,Personal,Miscellaneous,Gift,2915,UPI,Delhi,Airtel,Want
+EXP0903,2025-11-25,Travel,Hotels,Local travel,5681,UPI,Jaipur,Amazon,Want
+EXP0904,2025-11-26,Personal,Gifts,Personal expense,2339,Debit Card,Lucknow,Ola,Want
+EXP0905,2025-11-26,Shopping,Electronics,Personal item,4006,UPI,Hyderabad,BigBasket,Want
+EXP0906,2025-11-26,Bills & Utilities,Electricity,Monthly bill,2427,Credit Card,Kolkata,Zomato,Need
+EXP0907,2025-11-27,Food,Restaurants,Snacks,1247,UPI,Bengaluru,Local Store,Need
+EXP0908,2025-11-27,Transport,Cab,Cab ride,2566,Net Banking,Mumbai,Reliance Trends,Want
+EXP0909,2025-11-27,Shopping,Personal Care,Online purchase,3278,Credit Card,Lucknow,Zomato,Want
+EXP0910,2025-11-27,Transport,Cab,Auto ride,5000,UPI,Kolkata,Jio,Need
+EXP0911,2025-11-29,Transport,Public Transport,Cab ride,2679,Wallet,Delhi,Reliance Trends,Need
+EXP0912,2025-12-01,Personal,Gifts,Personal expense,4175,UPI,Delhi,BookMyShow,Want
+EXP0913,2025-12-01,Bills & Utilities,Gas,Utility payment,8000,Debit Card,Kolkata,Apollo Pharmacy,Need
+EXP0914,2025-12-01,Transport,Fuel,Auto ride,2258,Credit Card,Hyderabad,Netflix,Need
+EXP0915,2025-12-01,Food,Groceries,Dinner,1923,UPI,Chennai,Blinkit,Need
+EXP0916,2025-12-02,Food,Groceries,Lunch,1182,UPI,Hyderabad,Airtel,Want
+EXP0917,2025-12-02,Food,Restaurants,Lunch,172,UPI,Bengaluru,Apollo Pharmacy,Need
+EXP0918,2025-12-03,Food,Snacks,Monthly groceries,2342,Credit Card,Hyderabad,Airtel,Need
+EXP0919,2025-12-03,Food,Restaurants,Monthly groceries,1190,Debit Card,Bengaluru,Reliance Trends,Need
+EXP0920,2025-12-04,Shopping,Clothing,Home item,15000,Cash,Jaipur,Jio,Want
+EXP0921,2025-12-04,Rent,House Rent,Monthly house rent,10700,UPI,Chennai,Amazon Prime,Need
+EXP0922,2025-12-04,Personal,Miscellaneous,Personal expense,3507,Credit Card,Jaipur,Blinkit,Want
+EXP0923,2025-12-04,Rent,House Rent,Monthly house rent,25000,UPI,Jaipur,Amazon Prime,Need
+EXP0924,2025-12-05,Health,Medicine,Medicine purchase,9582,UPI,Mumbai,Reliance Trends,Need
+EXP0925,2025-12-05,Transport,Public Transport,Cab ride,4826,UPI,Bengaluru,BookMyShow,Need
+EXP0926,2025-12-06,Rent,House Rent,Monthly house rent,15225,UPI,Hyderabad,Blinkit,Need
+EXP0927,2025-12-06,Rent,House Rent,Monthly house rent,12122,UPI,Delhi,BookMyShow,Need
+EXP0928,2025-12-06,Shopping,Personal Care,Home item,8636,UPI,Mumbai,Jio,Want
+EXP0929,2025-12-06,Transport,Auto/Rickshaw,Bus ticket,1115,Cash,Delhi,Amazon Prime,Need
+EXP0930,2025-12-06,Entertainment,Movies,Movie ticket,4273,Cash,Bengaluru,BookMyShow,Want
+EXP0931,2025-12-07,Bills & Utilities,Internet,Internet bill,3046,UPI,Ahmedabad,Airtel,Need
+EXP0932,2025-12-07,Personal,Gifts,Personal expense,2834,Credit Card,Delhi,Electricity Board,Want
+EXP0933,2025-12-07,Shopping,Personal Care,Online purchase,4858,Debit Card,Jaipur,Uber,Want
+EXP0934,2025-12-08,Food,Restaurants,Lunch,2500,UPI,Hyderabad,Medical Store,Need
+EXP0935,2025-12-08,Food,Food Delivery,Snacks,1631,Credit Card,Kolkata,IRCTC,Need
+EXP0936,2025-12-08,Education,Stationery,Online course,11082,UPI,Mumbai,Zomato,Need
+EXP0937,2025-12-08,Transport,Cab,Auto ride,3150,Net Banking,Lucknow,Jio,Want
+EXP0938,2025-12-08,Transport,Auto/Rickshaw,Bus ticket,3342,UPI,Delhi,Zomato,Need
+EXP0939,2025-12-08,Transport,Auto/Rickshaw,Bus ticket,1252,Cash,Lucknow,BookMyShow,Need
+EXP0940,2025-12-09,Bills & Utilities,Mobile,Monthly bill,5006,UPI,Delhi,Gym,Want
+EXP0941,2025-12-10,Shopping,Electronics,Home item,3887,Cash,Mumbai,Amazon Prime,Want
+EXP0942,2025-12-10,Travel,Flights,Train ticket,21438,UPI,Bengaluru,Netflix,Want
+EXP0943,2025-12-11,Personal,Gifts,Gift,2806,UPI,Chennai,Blinkit,Want
+EXP0944,2025-12-11,Entertainment,Movies,Event ticket,4651,Credit Card,Hyderabad,IRCTC,Want
+EXP0945,2025-12-12,Health,Doctor,Doctor consultation,3140,Cash,Delhi,Swiggy,Need
+EXP0946,2025-12-12,Bills & Utilities,Gas,Utility payment,7295,Credit Card,Lucknow,Amazon Prime,Need
+EXP0947,2025-12-12,Food,Groceries,Snacks,623,UPI,Mumbai,Ola,Need
+EXP0948,2025-12-12,Travel,Flights,Travel ticket,30000,Credit Card,Ahmedabad,Reliance Trends,Want
+EXP0949,2025-12-12,Health,Gym,Gym fee,3366,Debit Card,Pune,DMart,Want
+EXP0950,2025-12-12,Food,Food Delivery,Dinner,1723,Cash,Kolkata,Medical Store,Need
+EXP0951,2025-12-12,Food,Restaurants,Snacks,902,Cash,Kolkata,Uber,Need
+EXP0952,2025-12-13,Shopping,Electronics,Home item,5100,UPI,Mumbai,Local Store,Want
+EXP0953,2025-12-14,Personal,Salon,Personal expense,5975,Credit Card,Pune,Ola,Want
+EXP0954,2025-12-14,Personal,Gifts,Gift,2674,UPI,Delhi,Uber,Want
+EXP0955,2025-12-14,Rent,House Rent,Monthly house rent,18388,Net Banking,Chennai,Flipkart,Need
+EXP0956,2025-12-14,Personal,Miscellaneous,Gift,7000,Cash,Lucknow,Ola,Want
+EXP0957,2025-12-15,Transport,Public Transport,Auto ride,3198,UPI,Hyderabad,Zomato,Need
+EXP0958,2025-12-15,Transport,Fuel,Bus ticket,2493,Credit Card,Ahmedabad,DMart,Need
+EXP0959,2025-12-15,Shopping,Clothing,Online purchase,8500,UPI,Pune,Fuel Station,Want
+EXP0960,2025-12-15,Health,Medicine,Medicine purchase,3605,UPI,Pune,Apollo Pharmacy,Want
+EXP0961,2025-12-15,Food,Food Delivery,Dinner,321,Cash,Hyderabad,Ola,Need
+EXP0962,2025-12-16,Food,Restaurants,Snacks,336,UPI,Kolkata,DMart,Want
+EXP0963,2025-12-16,Bills & Utilities,Mobile,Monthly bill,3691,UPI,Hyderabad,Jio,Need
+EXP0964,2025-12-16,Personal,Miscellaneous,Personal expense,5216,Wallet,Bengaluru,Amazon Prime,Want
+EXP0965,2025-12-16,Transport,Cab,Auto ride,4084,Debit Card,Jaipur,Gym,Need
+EXP0966,2025-12-17,Personal,Salon,Personal expense,2135,UPI,Jaipur,Airtel,Want
+EXP0967,2025-12-17,Education,Online Learning,Course fee,12000,UPI,Pune,Local Store,Want
+EXP0968,2025-12-18,Food,Snacks,Dinner,577,UPI,Lucknow,Airtel,Need
+EXP0969,2025-12-18,Shopping,Clothing,Clothes,15000,Net Banking,Jaipur,Fuel Station,Want
+EXP0970,2025-12-18,Food,Groceries,Lunch,414,UPI,Hyderabad,Fuel Station,Need
+EXP0971,2025-12-20,Bills & Utilities,Electricity,Internet bill,3474,Net Banking,Mumbai,Local Store,Need
+EXP0972,2025-12-21,Entertainment,Subscriptions,Movie ticket,1311,UPI,Chennai,IRCTC,Want
+EXP0973,2025-12-21,Rent,House Rent,Monthly house rent,16736,UPI,Chennai,Zomato,Want
+EXP0974,2025-12-21,Rent,House Rent,Monthly house rent,8521,UPI,Mumbai,Medical Store,Need
+EXP0975,2025-12-21,Education,Stationery,Book purchase,5813,UPI,Hyderabad,Netflix,Need
+EXP0976,2025-12-22,Food,Snacks,Snacks,887,Credit Card,Pune,Amazon,Need
+EXP0977,2025-12-23,Rent,House Rent,Monthly house rent,25000,UPI,Jaipur,Flipkart,Need
+EXP0978,2025-12-23,Transport,Fuel,Bus ticket,3636,Wallet,Ahmedabad,Reliance Trends,Want
+EXP0979,2025-12-23,Food,Food Delivery,Lunch,1488,Cash,Pune,Uber,Need
+EXP0980,2025-12-24,Shopping,Clothing,Clothes,13700,Wallet,Lucknow,Zomato,Want
+EXP0981,2025-12-24,Transport,Cab,Auto ride,1385,Net Banking,Lucknow,Jio,Need
+EXP0982,2025-12-25,Bills & Utilities,Gas,Mobile recharge,8000,UPI,Mumbai,Blinkit,Need
+EXP0983,2025-12-25,Shopping,Clothing,Personal item,5450,Net Banking,Mumbai,DMart,Want
+EXP0984,2025-12-26,Entertainment,Games,Movie ticket,1063,UPI,Jaipur,Amazon Prime,Want
+EXP0985,2025-12-26,Shopping,Personal Care,Online purchase,15000,Net Banking,Pune,Local Store,Want
+EXP0986,2025-12-26,Rent,House Rent,Monthly house rent,18084,Net Banking,Ahmedabad,Apollo Pharmacy,Need
+EXP0987,2025-12-26,Rent,House Rent,Monthly house rent,25000,UPI,Delhi,Airtel,Need
+EXP0988,2025-12-26,Transport,Cab,Bus ticket,4864,UPI,Lucknow,DMart,Need
+EXP0989,2025-12-26,Entertainment,Subscriptions,Subscription,2739,UPI,Hyderabad,IRCTC,Want
+EXP0990,2025-12-27,Health,Gym,Health expense,4840,Credit Card,Delhi,Flipkart,Need
+EXP0991,2025-12-27,Personal,Miscellaneous,Miscellaneous,2866,UPI,Ahmedabad,IRCTC,Want
+EXP0992,2025-12-29,Shopping,Personal Care,Online purchase,6428,UPI,Chennai,Amazon,Want
+EXP0993,2025-12-30,Personal,Miscellaneous,Miscellaneous,1409,Cash,Bengaluru,Ola,Want
+EXP0994,2025-12-30,Bills & Utilities,Electricity,Monthly bill,4847,Debit Card,Ahmedabad,BigBasket,Need
+EXP0995,2025-12-31,Food,Restaurants,Food order,1029,Cash,Mumbai,Blinkit,Need
+EXP0996,2025-12-31,Food,Food Delivery,Food order,2500,UPI,Bengaluru,Amazon Prime,Need
+EXP0997,2025-12-31,Shopping,Clothing,Clothes,4913,UPI,Jaipur,Uber,Want
+EXP0998,2025-12-31,Shopping,Electronics,Online purchase,15000,Credit Card,Chennai,Zomato,Want
+EXP0999,2025-12-31,Personal,Miscellaneous,Miscellaneous,1284,Net Banking,Kolkata,IRCTC,Want
+EXP1000,2025-12-31,Food,Restaurants,Monthly groceries,469,Debit Card,Lucknow,Apollo Pharmacy,Need
